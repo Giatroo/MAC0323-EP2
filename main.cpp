@@ -1,6 +1,7 @@
 /* Esse arquivo contém a função main
  */
 
+#include <fstream>
 #include <iostream>
 
 #include "interface.cpp"
@@ -66,11 +67,154 @@ void teste2() {
 	cout << g.tamComp("lata") << endl;
 	g.imprime();
 
-	cout << "Dist ato rolar " << g.dist("ato", "rolar") << endl;
-	cout << "Dist ato olhar " << g.dist("ato", "olhar") << endl;
-	for (long unsigned int i = 0; i < g.vertices(); i++) {
+	for (int i = 0; i < g.vertices(); i++)
 		cout << "ciclo " << g.nodes[i]->palavra << " " << g.emCiclo(g.nodes[i]->palavra) << endl;
+
+	cout << "ciclo rato lato " << g.emCiclo("rato", "lato") << endl;
+	cout << "ciclo lata olhar " << g.emCiclo("lata", "olhar") << endl;
+	cout << "ciclo bbb lata " << g.emCiclo("bbb", "lata") << endl;
+	cout << "ciclo rato ato " << g.emCiclo("rato", "ato") << endl;
+
+	g.insere("abobora");
+	g.insere("aboborar");
+	cout << "ciclo abobora aboborar " << g.emCiclo("abobora", "aboborar") << endl;
+
+	cout << "ciclo lato rato " << g.emCiclo("lato", "rato") << endl;
+	cout << "ciclo olhar lata " << g.emCiclo("olhar", "lata") << endl;
+	cout << "ciclo lata bbb " << g.emCiclo("lata", "bbb") << endl;
+	cout << "ciclo ato rato " << g.emCiclo("ato", "rato") << endl;
+	cout << "ciclo bbb bbb " << g.emCiclo("bbb", "bbb") << endl;
+	cout << "ciclo lata lata " << g.emCiclo("lata", "lata") << endl;
+	cout << "ciclo olha rolar " << g.emCiclo("olha", "rolar") << endl;
+}
+
+void mostreUso(string prog) {
+	cout << "Modo de usar: " << endl;
+	cout << prog << " k arquivo" << endl;
+	cout << "\nOnde <k> é o tamanho mínimo das palavras e\n<arquivo> é o caminho de um"
+	        " arquivo de texto para o programa carregar."
+	     << endl;
+}
+
+void testeIterativo(Grafo &grafo) {
+	string cmd, s1, s2;
+	cout << "\nPossiveis operacoes do teste interativo:\n";
+	cout << "INSERT <palavra>\nVERTICES\nARESTAS\nGRAU "
+	        "<palavra>\nGRAUMEDIO\nDENSIDADE\nNUMCOMPS\nTAMCOMP <palavra>\nCAMINHO <palavra1> "
+	        "<palavra2>\nDIST <palavra1> <palavra2>\nCICLO1 "
+	        "<palavra>\nCICLO2 <palavra1> <palavra2>\nDISTMEDIA\nPRINT\nHELP\n";
+	cout << "EXIT para encerrar." << endl;
+	cout << ">>> ";
+
+	while (cin >> cmd) {
+		// to lower
+		for (string::iterator it = cmd.begin(); it < cmd.end(); it++)
+			if ('A' <= *it && *it <= 'Z') *it = *it - 'A' + 'a';
+		if (cmd == "exit") {
+			system("clear");
+			cout << "Obrigado pela preferência" << endl;
+			break;
+		} else if (cmd == "insert") {
+			cin >> s1;
+			grafo.insere(s1);
+			cout << "Inserido " << s1 << endl;
+		} else if (cmd == "vertices") {
+			cout << "Vertices = " << grafo.vertices() << endl;
+		} else if (cmd == "arestas") {
+			cout << "Arestas = " << grafo.arestas() << endl;
+		} else if (cmd == "grau") {
+			cin >> s1;
+			// ....
+		} else if (cmd == "graumedio") {
+			// ....
+		} else if (cmd == "densidade") {
+			// ....
+		} else if (cmd == "numcomps") {
+			cout << "O grafo tem " << grafo.componentes() << " componentes." << endl;
+		} else if (cmd == "tamcomp") {
+			cin >> s1;
+			cout << "A componentes da palavra " << s1 << " tem " << grafo.tamComp(s1)
+			     << " vertices." << endl;
+		} else if (cmd == "caminho") {
+			cin >> s1 >> s2;
+			if (grafo.dist(s1, s2) == -1)
+				cout << "Não existe caminho entre " << s1 << " e " << s2 << endl;
+			else
+				cout << "Existe caminho entre " << s1 << " e " << s2 << endl;
+		} else if (cmd == "dist") {
+			cin >> s1 >> s2;
+			int dist = grafo.dist(s1, s2);
+			if (dist == -1)
+				cout << "Não existe caminho entre " << s1 << " e " << s2 << endl;
+			else
+				cout << "A distância entre " << s1 << " e " << s2 << " é " << dist << endl;
+		} else if (cmd == "ciclo1") {
+			cin >> s1;
+			if (grafo.emCiclo(s1))
+				cout << s1 << " está em algum ciclo." << endl;
+			else
+				cout << s1 << " não está em nenhum ciclo." << endl;
+		} else if (cmd == "ciclo2") {
+			cin >> s1 >> s2;
+			if (grafo.emCiclo(s1, s2))
+				cout << "Existe ciclo contendo " << s1 << " e " << s2 << endl;
+			else
+				cout << "Não existe ciclo contendo " << s1 << " e " << s2 << endl;
+		} else if (cmd == "distmedia") {
+			// ...
+		} else if (cmd == "print") {
+			grafo.imprime();
+		} else if (cmd == "help") {
+			cout << "\nPossiveis operacoes do teste interativo:\n";
+			cout << "INSERT <palavra>\nVERTICES\nARESTAS\nGRAU "
+			        "<palavra>\nGRAUMEDIO\nDENSIDADE\nNUMCOMPS\nTAMCOMP <palavra>\nCAMINHO "
+			        "<palavra1> "
+			        "<palavra2>\nDIST <palavra1> <palavra2>\nCICLO1 "
+			        "<palavra>\nCICLO2 <palavra1> <palavra2>\nDISTMEDIA\nPRINT\nHELP\n";
+			cout << "EXIT para encerrar." << endl;
+
+		} else
+			cout << "Esse comando não existe!" << endl;
+		cout << ">>> ";
 	}
 }
 
-int main(int argc, char *argv[]) { return 0; }
+int main(int argc, char *argv[]) {
+	if (argc != 3) {
+		mostreUso(argv[0]);
+		return 0;
+	}
+
+	Grafo grafo(atoi(argv[1]));
+	fstream arqTexto;
+	arqTexto.open(argv[2]);
+	if (arqTexto.fail()) {
+		cout << "ERRO: arquivo" << argv[1] << "nao pode ser aberto." << endl;
+		exit(EXIT_FAILURE);
+	}
+
+	clock_t start, end;
+	string s;
+	string especiais = ".\"!-:,_'’—?)(;*#1234567890$@%&*[]+/ ";
+	int i = 1;
+	start = clock();
+	while (arqTexto >> s) {
+		// Tratando a palavra (deixando ela minúscula e retirando caracteres especiais)
+		// Infelizmente, não achei forma de tornar caracteres acentuados em minúsculos
+		for (string::iterator it = s.begin(); it < s.end(); it++) {
+			if ('A' <= *it && *it <= 'Z') *it = *it - 'A' + 'a';
+			for (long unsigned int j = 0; j < especiais.size(); j++)
+				if (*it == especiais[j] || !isascii(*it)) s.erase(it);
+		}
+		if (s.size() == 0) continue;
+
+		cout << "Carregando palavras para o grafo...\t" << i++ << '\n';
+		grafo.insere(s);
+	}
+	end = clock();
+	cout << "Grafo criado com sucesso em " << (((double)(end - start)) / CLOCKS_PER_SEC)
+	     << " segundos" << endl;
+	testeIterativo(grafo);
+
+	return 0;
+}

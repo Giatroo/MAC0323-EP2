@@ -282,9 +282,49 @@ class Grafo {
 		return false;
 	}
 
+	bool bfs2(std::vector<bool> &listed, int pai, int cur, int iA, int iB, bool &found) {
+		// debug(cur);
+		bool ans = false;
+		listed[cur] = true;
+		if (cur == iB) found = true;
+		for (Node *u : nodes[cur]->adj) {
+			if (pai != iA && u->index == iA && found) {
+				// std::cout << "true para: " << std::endl;
+				// std::cout << "\t";
+				// debug(cur);
+				return true;
+			}
+			if (!listed[u->index] && bfs2(listed, cur, u->index, iA, iB, found)) ans = true;
+      if (cur == iB) found = false;
+		}
+
+		return ans;
+	}
+
 	bool emCiclo(std::string a, std::string b) {
 		/* Retorna verdadeiro caso exista um ciclo que contenha ambas as palavras,
 		falso caso contrário */
+
+		int iA, iB;
+		iA = iB = -1;
+		for (long unsigned int i = 0; i < V && (iA == -1 || iB == -1); i++) {
+			if (nodes[i]->palavra == a) iA = i;
+			if (nodes[i]->palavra == b) iB = i;
+		}
+
+		if (iA == -1 || iB == -1) return false;
+
+		std::vector<bool> listed = std::vector<bool>(V, false);
+		// debug(iA);
+		// debug(iB);
+		listed[iA] = true;
+		bool found;
+		for (Node *n : nodes[iA]->adj) {
+			found = false;
+			if (bfs2(listed, iA, n->index, iA, iB, found)) return true;
+			// std::cout << "voltando" << std::endl;
+		}
+
 		return false;
 	}
 };
