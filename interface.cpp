@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <cstdint>
 #include <cstdlib>
 #include <iostream>
 #include <queue>
@@ -295,7 +296,7 @@ class Grafo {
 				return true;
 			}
 			if (!listed[u->index] && bfs2(listed, cur, u->index, iA, iB, found)) ans = true;
-      if (cur == iB) found = false;
+			if (cur == iB) found = false;
 		}
 
 		return ans;
@@ -327,4 +328,60 @@ class Grafo {
 
 		return false;
 	}
+
+	int grau(std::string a) {
+		/* Retorna o grau de um vertice caso ele exista. Caso contrário, retorna -1.
+		 */
+		int g = -1;
+		for (long unsigned int i = 0; i < V && g == -1; i++)
+			if (nodes[i]->palavra == a) g = nodes[i]->adj.size();
+		return g;
+	}
+
+	double graumedio() {
+		double g = 0.0;
+		for (long unsigned int i = 0; i < V; i++) g += nodes[i]->adj.size();
+		return g / V;
+	}
+
+	double densidade() { return ((double)E) / V; }
+
+	void infoComps(int &numcomps, int &tammenor, int &tammaior, double &tammedio) {
+		std::vector<bool> listed = std::vector<bool>(V, false);
+		numcomps = 0;
+		tammaior = INT16_MIN;
+		tammenor = INT16_MAX;
+		tammedio = 0.0;
+		int tamcur = 0;
+
+		for (long unsigned int i = 0; i < V; i++) {
+			tamcur = 0;
+			if (!listed[i]) {
+				numcomps++;
+				listed[i] = true;
+				tamcur++;
+				std::queue<int> q;
+				q.push(i);
+
+				int cur;
+				while (!q.empty()) {
+					tamcur++;
+					cur = q.front();
+					q.pop();
+					for (Node *u : nodes[cur]->adj) {
+						if (!listed[u->index]) {
+							listed[u->index] = true;
+							q.push(u->index);
+						}
+					}
+				}
+
+				if (tamcur > tammaior) tammaior = tamcur;
+				if (tamcur < tammenor) tammenor = tamcur;
+				tammedio += tamcur;
+			}
+		}
+		tammedio /= ((double)numcomps);
+	}
+
 };

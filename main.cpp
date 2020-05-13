@@ -94,15 +94,16 @@ void mostreUso(string prog) {
 	cout << "\nOnde <k> é o tamanho mínimo das palavras e\n<arquivo> é o caminho de um"
 	        " arquivo de texto para o programa carregar."
 	     << endl;
+	cout << "Se <arquivo> nao for informado, entao um grafo vazio sera criado." << endl;
 }
 
 void testeIterativo(Grafo &grafo) {
 	string cmd, s1, s2;
 	cout << "\nPossiveis operacoes do teste interativo:\n";
-	cout << "INSERT <palavra>\nVERTICES\nARESTAS\nGRAU "
-	        "<palavra>\nGRAUMEDIO\nDENSIDADE\nNUMCOMPS\nTAMCOMP <palavra>\nCAMINHO <palavra1> "
-	        "<palavra2>\nDIST <palavra1> <palavra2>\nCICLO1 "
-	        "<palavra>\nCICLO2 <palavra1> <palavra2>\nDISTMEDIA\nPRINT\nHELP\n";
+	cout << "(I)NSERT <palavra>\n(V)ERTICES\n(A)RESTAS\n(G)RAU "
+	        "<palavra>\nGRAUMEDIO\nDENSIDADE\nNUMCOMPS\nINFOCOMPS\nTAMCOMP <palavra>\n(C)AMINHO "
+	        "<palavra1> <palavra2>\n(D)IST <palavra1> <palavra2>\nCICLO1 "
+	        "<palavra>\nCICLO2 <palavra1> <palavra2>\nINFOGERAL\n(P)RINT\n(H)ELP\n";
 	cout << "EXIT para encerrar." << endl;
 	cout << ">>> ";
 
@@ -112,36 +113,48 @@ void testeIterativo(Grafo &grafo) {
 			if ('A' <= *it && *it <= 'Z') *it = *it - 'A' + 'a';
 		if (cmd == "exit") {
 			system("clear");
-			cout << "Obrigado pela preferência" << endl;
+			cout << "Obrigado pela preferência." << endl;
 			break;
-		} else if (cmd == "insert") {
+		} else if (cmd == "insert" || cmd == "i") {
 			cin >> s1;
 			grafo.insere(s1);
 			cout << "Inserido " << s1 << endl;
-		} else if (cmd == "vertices") {
+		} else if (cmd == "vertices" || cmd == "v") {
 			cout << "Vertices = " << grafo.vertices() << endl;
-		} else if (cmd == "arestas") {
+		} else if (cmd == "arestas" || cmd == "a") {
 			cout << "Arestas = " << grafo.arestas() << endl;
-		} else if (cmd == "grau") {
+		} else if (cmd == "grau" || cmd == "g") {
 			cin >> s1;
-			// ....
+			int g = grafo.grau(s1);
+			if (g == -1)
+				cout << s1 << " nao existe no grafo." << endl;
+			else
+				cout << "O grau de " << s1 << " é " << grafo.grau(s1) << endl;
 		} else if (cmd == "graumedio") {
-			// ....
+			cout << "O grau médio do grafo é " << grafo.graumedio() << endl;
 		} else if (cmd == "densidade") {
-			// ....
+			cout << "A densidade do grafo é " << grafo.densidade() << endl;
 		} else if (cmd == "numcomps") {
 			cout << "O grafo tem " << grafo.componentes() << " componentes." << endl;
 		} else if (cmd == "tamcomp") {
 			cin >> s1;
 			cout << "A componentes da palavra " << s1 << " tem " << grafo.tamComp(s1)
 			     << " vertices." << endl;
-		} else if (cmd == "caminho") {
+		} else if (cmd == "infocomps") {
+			int numcomps, tammenor, tammaior;
+			double tammedio;
+			grafo.infoComps(numcomps, tammenor, tammaior, tammedio);
+			cout << "Numero de componentes: " << numcomps << endl;
+			cout << "Tamanho da menor componente: " << tammenor << endl;
+			cout << "Tamanho da maior componente: " << tammaior << endl;
+			cout << "Tamanho medio das componentes: " << tammedio << endl;
+		} else if (cmd == "caminho" || cmd == "c") {
 			cin >> s1 >> s2;
 			if (grafo.dist(s1, s2) == -1)
 				cout << "Não existe caminho entre " << s1 << " e " << s2 << endl;
 			else
 				cout << "Existe caminho entre " << s1 << " e " << s2 << endl;
-		} else if (cmd == "dist") {
+		} else if (cmd == "dist" || cmd == "d") {
 			cin >> s1 >> s2;
 			int dist = grafo.dist(s1, s2);
 			if (dist == -1)
@@ -160,19 +173,29 @@ void testeIterativo(Grafo &grafo) {
 				cout << "Existe ciclo contendo " << s1 << " e " << s2 << endl;
 			else
 				cout << "Não existe ciclo contendo " << s1 << " e " << s2 << endl;
-		} else if (cmd == "distmedia") {
-			// ...
-		} else if (cmd == "print") {
+		} else if (cmd == "infogeral" || cmd == "info") {
+			int numcomps, tammenor, tammaior;
+			double tammedio;
+			cout << "Vertices = " << grafo.vertices() << endl;
+			cout << "Arestas = " << grafo.arestas() << endl;
+			grafo.infoComps(numcomps, tammenor, tammaior, tammedio);
+			cout << "Numero de componentes: " << numcomps << endl;
+			cout << "Tamanho da menor componente: " << tammenor << endl;
+			cout << "Tamanho da maior componente: " << tammaior << endl;
+			cout << "Tamanho medio das componentes: " << tammedio << endl;
+			cout << "O grau médio do grafo é " << grafo.graumedio() << endl;
+			cout << "A densidade do grafo é " << grafo.densidade() << endl;
+		} else if (cmd == "print" || cmd == "p") {
 			grafo.imprime();
-		} else if (cmd == "help") {
+		} else if (cmd == "help" || cmd == "h") {
 			cout << "\nPossiveis operacoes do teste interativo:\n";
-			cout << "INSERT <palavra>\nVERTICES\nARESTAS\nGRAU "
-			        "<palavra>\nGRAUMEDIO\nDENSIDADE\nNUMCOMPS\nTAMCOMP <palavra>\nCAMINHO "
-			        "<palavra1> "
-			        "<palavra2>\nDIST <palavra1> <palavra2>\nCICLO1 "
-			        "<palavra>\nCICLO2 <palavra1> <palavra2>\nDISTMEDIA\nPRINT\nHELP\n";
+			cout << "(I)NSERT <palavra>\n(V)ERTICES\n(A)RESTAS\n(G)RAU "
+			        "<palavra>\nGRAUMEDIO\nDENSIDADE\nNUMCOMPS\nINFOCOMPS\nTAMCOMP "
+			        "<palavra>\n(C)AMINHO "
+			        "<palavra1> <palavra2>\n(D)IST <palavra1> <palavra2>\nCICLO1 "
+			        "<palavra>\nCICLO2 <palavra1> "
+			        "<palavra2>\nINFOGERAL\n(P)RINT\n(H)ELP\n";
 			cout << "EXIT para encerrar." << endl;
-
 		} else
 			cout << "Esse comando não existe!" << endl;
 		cout << ">>> ";
@@ -180,40 +203,45 @@ void testeIterativo(Grafo &grafo) {
 }
 
 int main(int argc, char *argv[]) {
-	if (argc != 3) {
+	if (argc != 3 && argc != 2) {
 		mostreUso(argv[0]);
 		return 0;
 	}
 
 	Grafo grafo(atoi(argv[1]));
-	fstream arqTexto;
-	arqTexto.open(argv[2]);
-	if (arqTexto.fail()) {
-		cout << "ERRO: arquivo" << argv[1] << "nao pode ser aberto." << endl;
-		exit(EXIT_FAILURE);
-	}
-
-	clock_t start, end;
-	string s;
-	string especiais = ".\"!-:,_'’—?)(;*#1234567890$@%&*[]+/ ";
-	int i = 1;
-	start = clock();
-	while (arqTexto >> s) {
-		// Tratando a palavra (deixando ela minúscula e retirando caracteres especiais)
-		// Infelizmente, não achei forma de tornar caracteres acentuados em minúsculos
-		for (string::iterator it = s.begin(); it < s.end(); it++) {
-			if ('A' <= *it && *it <= 'Z') *it = *it - 'A' + 'a';
-			for (long unsigned int j = 0; j < especiais.size(); j++)
-				if (*it == especiais[j] || !isascii(*it)) s.erase(it);
+	if (argc == 3) {
+		fstream arqTexto;
+		arqTexto.open(argv[2]);
+		if (arqTexto.fail()) {
+			cout << "ERRO: arquivo" << argv[1] << "nao pode ser aberto." << endl;
+			exit(EXIT_FAILURE);
 		}
-		if (s.size() == 0) continue;
 
-		cout << "Carregando palavras para o grafo...\t" << i++ << '\n';
-		grafo.insere(s);
+		clock_t start, end;
+		string s;
+		string especiais = ".\"!-:,_'’—?)(;*#1234567890$@%&*[]+/ ";
+		int i = 1;
+		start = clock();
+		while (arqTexto >> s) {
+			// Tratando a palavra (deixando ela minúscula e retirando caracteres especiais)
+			// Infelizmente, não achei forma de tornar caracteres acentuados em minúsculos
+			for (string::iterator it = s.begin(); it < s.end(); it++) {
+				if ('A' <= *it && *it <= 'Z') *it = *it - 'A' + 'a';
+				for (long unsigned int j = 0; j < especiais.size(); j++)
+					if (*it == especiais[j] || !isascii(*it)) s.erase(it);
+			}
+			if (s.size() == 0) continue;
+
+			cout << "Carregando palavras para o grafo...\t" << i++ << '\n';
+			grafo.insere(s);
+		}
+		end = clock();
+		cout << "Grafo criado com sucesso em " << (((double)(end - start)) / CLOCKS_PER_SEC)
+		     << " segundos" << endl;
+	} else {
+		cout << "Grafo vazio criado com sucesso." << endl;
 	}
-	end = clock();
-	cout << "Grafo criado com sucesso em " << (((double)(end - start)) / CLOCKS_PER_SEC)
-	     << " segundos" << endl;
+
 	testeIterativo(grafo);
 
 	return 0;
