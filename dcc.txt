@@ -1,0 +1,3109 @@
+
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+PesquisaPesquisa
+Português (BR) English (UK)
+Home  DCC
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Departamento de Ciência da Computação
+O Departamento de Ciência da Computação do IME/USP é um centro de ensino, pesquisa e extensão, internacionalmente reconhecido por sua excelência. Oferece o Bacharelado em Ciência da Computação (BCC), um mestrado e um doutorado em computação, e participa do Programa de Pós-Graduação Interunidades em Bioinformática, além de cursos de aperfeiçoamento e especialização. O departamento também é responsável pela disciplina de Introdução à Computação, que é ministrada para diversos cursos da USP, totalizando mais de 2000 alunos por ano.
+
+O Bacharelado em Ciência da Computação é um dos mais antigos do país, criado em 1972, já tendo formado mais de 1100 profissionais. Vários ex-alunos atuam hoje em posições de destaque em institutos de pesquisa e empresas de tecnologia. Com duração de 4 anos, o curso oferece aos alunos, além da formação básica, uma grade curricular inovadora e flexível, formando profissionais versáteis e capacitados a atuar nos diversos ramos da computação.
+
+O mestrado e o doutorado do departamento têm se destacado por sua sólida produção científica e por produzirem dissertações e teses de ótima qualidade. Vários destes trabalhos foram premiados pelo Concurso de Teses e Dissertações da SBC, pelo Concurso Latinoamericano de Tesis de Maestria do CLEI e pelo concurso de melhor tese de doutorado de Ciência da Computação da CAPES.
+
+O Departamento possui pesquisadores ativos em várias áreas da Ciência da Computação, sendo a maior parte deles reconhecidos por sua produtividade pelo CNPq, com diversos prêmios internacionais ao seu corpo de pesquisadores. Os resultados de suas pesquisas são publicados em conferências e revistas científicas internacionais. Seus docentes são autores e organizadores de vários livros científicos, técnicos e didáticos. O departamento, com recursos obtidos pela FINEP e pela reitoria da USP, construiu e hospeda o Centro de Competência em Software Livre.
+
+ 
+
+Regimento do DCC
+
+Diretrizes para progressão na carreira na área de computação
+
+
+
+
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Sobre o DCC  Histórico
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Histórico
+O Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) compõe-se de quatro departamentos: Matemática (MAT), Estatística (MAE), Matemática Aplicada (MAP) e Ciência da Computação (DCC).O IME-USP é reconhecido como centro de excelência pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e pela Organização de Estados Americanos (OEA).
+
+ 
+
+O Departamento de Ciência da Computação do IME-USP foi formalmente criado em 1987. Mas a atividade em Ciência da Computação no IME-USP antecede este evento.
+Pode-se dizer que o núcleo do corpo docente do DCC teve origem em 1961 em torno do computador IBM-1620, que acabava de ser instalado no Centro de Cálculo Numérico (hoje CeTI-SP - Centro de Tecnologia da Informação de São Paulo) da USP. Em 1970, com a criação do IME, vários integrantes daquele grupo e do Departamento de Matemática da Escola Politécnica tornaram-se docentes do MAP, onde permaneceram até a criação do DCC.
+
+ 
+
+O DCC é responsável pelo curso de Bacharelado em Ciência da Computação (BCC), que oferece 50 vagas por ano via vestibular Fuvest e formou 905 bacharéis até 2002. A primeira turma de alunos concluiu o curso em 1974. No ano de 1994 o BCC comemorou seus 20 anos; em 1999, comemorou seus 25 anos. O BCC é bastante procurado no vestibular (30 a 60 candidatos por vaga).
+
+ 
+
+O DCC também é responsável pelo ensino de uma disciplina básica de Introdução à Computação que faz parte do currículo de quase todos cursos das áreas de ciências exatas e tecnologia (cerca de 1700 alunos por ano). Mais recentemente, uma variante desta disciplina passou a ser oferecida a vários cursos da área de ciência humanas; a demanda por esta variante da disciplina continua maior que a capacidade de atendimento do DCC. Para enfrentar esta demanda foi criado, em 1992, o CEC - Centro de Ensino da Computação, sob a coordenação do DCC.
+
+ 
+
+Em relação à pós-graduação, o DCC é responsável pelos cursos de Mestrado e Doutorado em Ciência da Computação, que existem desde 1972. O programa formou 174 mestres de 1972 a 2002. Vários destes mestres continuaram seus estudos no exterior, onde obtiveram o grau de doutor. O programa de doutorado em Ciência de Computação no IME-USP está se consolidando, já tendo formado 19 doutores até o ano 2003. O programa tem hoje entre 25 e 30 alunos. As dissertações de nossos alunos têm recebido reconhecimento no meio acadêmico, tendo recebido vários prêmios.
+
+ 
+
+Em 1979 o IME-USP sediou a primeira Escola de Computação, organizada por docentes que hoje estão no DCC. Hoje a Escola de Computação é um evento tradicional, de âmbito nacional, já na sua décima segunda edição, que também será organizada pelo DCC.
+
+ 
+
+Em 1992 o DCC coordenou e sediou o simpósio internacional LATIN'92 (Latin American Theoretical INformatics), que contou com o apoio de várias associações internacionais (ACM/SIGACT, EATCS, IFIP, IEEE) e a presença de uma centena de pesquisadores (destes, cerca de 54 do exterior). Os trabalhos apresentados no simpósio foram publicados, antecipadamente, na série Lecture Notes in Computer Science, da Springer-Verlag.
+
+ 
+
+A qualificação do corpo docente de pós-graduação do DCC aumentou consideravelmente nos últimos anos. Nossos docentes tem formação diversificada, com formação obtida em em vários centros do Brasil e do exterior. O DCC conta atualmente com 36 professores, sendo 35 professores doutores.
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Sobre o DCC  Prêmios
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Prêmios
+Prêmios obtidos por alunos de graduação
+
+Prêmios obtidos por alunos de pós-graduação
+
+Prêmios e distinções obtidos por docentes do DCC
+
+ 
+Prêmios obtidos por alunos de graduação
+
+IMPA (Instituto Nacional de Matemática Pura e Aplicada) - Jornadas de Iniciação Científica, 2010 - Medalha de Ouro - Susanna Figueiredo de Rezende, orientada pela Profª. Yoshiko Wakabayashi.
+
+ SOBRAPO (Sociedade Brasileira de Pesquisa Operacional) - Prêmio de Iniciação Científica, 2007 -  Rafael Durbano Lobato, orientado pelo Prof. Ernesto G. Birgin.
+
+ SIICUSP - Iniciação Científica, 2005 - Menção Honrosa - Francisco Nogueira Calmon Sobral, orientado pelo Prof. Ernesto G. Birgin.
+
+ Olimpíada Brasileira de Informática, 2003 - Destaque - Guilherme Fujiwara (aluno do primeiro ano do BCC-IME-USP)
+
+ Challenge ROADEF'2003, 2003 - Flávio Ribeiro (aluno de IC), orientado pelo Prof. Alfredo Goldman.
+
+ACM International Collegiate Programming Contest, 2002 - Classificação à fase final - (veja notícia na Folha Online).
+
+ SIICUSP - Iniciação Científica - Menção Honrosa - Fábio Silva Dias (USP), orientado pelo Prof. Ernesto G. Birgin.
+
+ACM International Collegiate Programming Contest, 2001
+
+ACM International Collegiate Programming Contest,1999
+ 
+
+Prêmios obtidos por alunos de pós-graduação
+
+
+ Melhor Dissertação - XII Simpósio de segurança de dados e sistemas computacionais (2012) - Aluno: Bernardo Caraponale Magri - Orientador: Routo Terada. Dissertação: Assinatura digital Rabin-Williams sem randomização e com prova eficiente de segurança.
+http://sbseg2012.ppgia.pucpr.br/?pg=premiacao
+
+ Menção honrosa (segundo lugar) - Tese Destaque USP 2011 - Aluno: Fabrício, Doutorado pelo programa de Bioinformática - Orientador: Roberto Cesar Marcondes Junior
+
+ 1º Lugar na Olimpíada USP de Inovação na categoria Tecnologias Sociais Aplicadas.
+Projeto: Arquigrafia Brasil
+Coordenadores: Prof. Marco Aurélio Gerosa e pelo Prof. Artur Rozestraten
+Alunos: O Projeto é uma colaboração IME-FAU-ECA no qual trabalham alunos de mestrado em Ciência da Computação, includindo Straus Michalsky, Ana Paula Oliveira dos Santos, Carlos Leonardo Herrera Muñoz,  Edith Zaida Sonco Mamani e Aurelio Akira.
+
+ 2º Lugar: Ary Fagundes Bressane Neto (bolsista Microsoft Research)
+Orientador: Flávio Soares Correa da Silva
+Dissertação: Uma arquitetura para agentes inteligentes com personalidade e emoção
+http://www.teses.usp.br/teses/disponiveis/45/45134/tde-28072010-121443/pt-br.php
+
+ 3º Lugar: Gustavo Sacomoto
+Orientador: Alair Pereira do Lago
+Dissertação: Árvores de Ukkonen: caracterização combinatória e aplicações
+http://www.teses.usp.br/teses/disponiveis/45/45134/tde-21042011-092209/pt-br.php
+
+
+  O Concurso de Teses e Dissertações em Inteligência Artificial (CTDIA 2010) premiou a aluna Karina Valdivia Delgado com o 1o lugar na categoria de melhor tese de doutorado - 2010
+
+  Bruno Klava, aluno de doutorado em Ciência da Computação do IME, recebeu o terceiro lugar na categoria Dissertações de Mestrado no Workshop de Teses e Dissertações do SIBGRAPI (Conference on Graphics, Patterns and Images) - 2010
+
+ O trabalho de doutorado do David Corrêa Martins Jr. e de seu orientador, Roberto M. Cesar Jr. foi agraciado com uma menção honrosa pela CAPES (prêmio de teses e dissertações). - 2010
+
+
+ William Colem, nosso aluno de mestrado e seu orientador Marcelo Finger e também a toda a equipe do CoGrOO (corretor gramatical do OpenOffice) receberam o prêmio Voo Livre.
+O prêmio foi concedido aos membros do CCSL pela comunidade BrOffice.org, na categoria desenvolvimento de software, pelas contribuições significativas do trabalho do William para que a sociedade se torne cada vez mais livre, permitindo ao BrOffice.org voar mais alto. Mais detalhes podem ser encontrados no portal do CCSL em http://ccsl.ime.usp.br
+
+ 3º lugar na Final Brasileira da Maratona de Programação, ocorrida em 24/10/2009 - Campinas  
+
+ Karina Valdivia Delgado, aluna de doutorado orientada pela Profa. Leliane Nunes de Barros, recebeu o segundo lugar do "2009 IJAR Young Researcher Award" - International Journal of Aproximate Reasoning da Elsevier.
+
+ Julian Monteiro, orientado pelo Prof. Alfredo Goldman, obteve o terceiro prêmio no XV Concurso Latino Americano de Dissertações de Mestrado CLEI - UNESCO. VI Concurso de Teses e Dissertações em Inteligência Artificial 2008.
+
+ Silvio do Lago Pereira, orientado pela Profa. Leliane Nunes de Barros, recebeu o Prêmio CTDIA oferecido pela Sociedade Brasileira de Inteligência Artificial como Melhor Tese de Doutorado. Prêmio Capes de Teses de Doutorado 2007.
+
+ Gordana Manic, orientada pela Prof. Yoshiko Wakabayashi, recebeu o Prêmio Capes de Melhor Tese de Doutorado, na área de Ciência da Computação.
+
+ Eugênio Akihiro Nassu, aluno de doutorado orientado pelo Prof. Marcelo Finger, é um dos finalistas regionais do Prêmio Santander de Ciência e Inovação 2007 .
+
+ Daniel de Angelis Cordeiro, orientado pelo Prof. Alfredo Goldman, obteve menção honrosa no  WSCAD-CTD.
+
+ Arnaldo Câmara Lara, orientado pelo Prof. Roberto Hirata Junior, obteve menção honrosa no Workshop de Teses e Dissertações - SIBGRAPI, 2007.
+
+ Ellen Hidemi Fukuda, orientada pelo Prof. Paulo J. S. Silva, recebeu o Prêmio Odelar Leite Linhares, categoria dissertação de mestrado, oferecido pela Sociedade Brasileira de Matemática Aplicada e Computacional, 2007.
+
+ Daniel de Angelis Cordeiro, orientado pelo Prof. Alfredo Goldman ficou em 3º lugar no Concurso de Tesis de Maestria CLEI 2007.
+
+ João Vitor Baldini Soares, orientado pelo Prof. Roberto M. Cesar Jr., obteve menção honrosa no Concurso de Tesis de Maestria CLEI 2007.
+
+ Flavio Luiz Coutinho, orientado pelo prof. Carlos Hitoshi Marimoto, obteve menção honrosa no Concurso de Tesis de Maestria CLEI 2007.
+
+ Seiji Isotani, orientado pelo Prof. Leônidas de Oliveira Brandão, ganhou o 1º lugar no Simpósio Brasileiro de Informática na Educação SBIE/SBC 2006, Concurso de Teses e Dissertações.
+
+ Felipe Werndl Trevizan, orientado pela Profa. Leliane Nunes de Barros, recebeu o Prêmio João Negrete de melhor artigo da conferência no IBERAMIA/SBIA 2006.
+
+ Denise Hideko Goya, orientada pelo Prof. Routo Terada, ficou em 1º lugar no Concurso Teses, Dissertações e TCC's do SSI20.
+
+ Fernando Mario de Oliveira Filho, orientado pelo Prof. Carlos Eduardo Ferreira, ficou em 1º lugar no CTD - SBC 2006 - Mestrado.
+
+ Renato Carmo, orientado pelos Profs. Yoshiharu Kohayakawa e Eduardo Labe, obteve o 2º lugar no CTD - SBC 2006 - Doutorado.
+
+ Julian Monteiro, orientado pelo Prof. Alfredo Goldman, recebeu o prêmio de melhor artigo elaborado por estudante no WiMob 2006 - Montreal.
+
+ Jesus P. Mena-Chalco, orientado pelo Prof. Roberto M. Cesar Jr, ficou em 1º lugar no Concurso de Dissertações do CLEI 2006.
+
+ Roberto Speicys Cardoso, orientado pelo Prof. Fabio Kon, recebeu o 3º lugar no Concurso de Dissertações do CLEI 2006.
+
+ Luis Carlos Yano Endo, orientado pelo Prof. Antonio Elias Fabris, recebeu o 5º lugar no Concurso de Dissertações de Mestrado CLEI-UNESCO 2004 (Arequipa, Peru, 24/set - 01/out) com a tese "Simulação de Mini-Ecossistemas Vegetais em Tempo Real", defendida em 2003
+
+ IBM Eclipse Innovation Grant 2004 program (profs. Fabio Kon, Leliane N. de Barros, Renata Wasserman, Alfredo Goldman).
+
+ Alessandro Santiago, Carlos Henrique de Fernandes, Daniel de Angelis Cordeiro, Fabio Henrique Nishihara, Felipe Alves Moura, Peter Kreslins e Rogerio Manente foram premiados no Concurso Jovem Talentos IBM
+
+Alessandro Santiago dos Santos. recebeu o 6º lugar no X Concurso de Tesis de Maestria CLEI-UNESCO (2003).
+
+Teófilo Emídio de Campos recebeu o 1º lugar no Concurso de Teses e Dissertações da SBC (2002).
+
+Rogério Schmidt Féris recebeu o 2º lugar no Concurso de Teses e Dissertações da SBC (2002).
+
+Glauber Ferreira Cintra recebeu o 1º lugar no VI Concurso CLEI-UNESCO de Teses de Mestrado (1999).
+
+Einar Luciano Gattoni Saukas recebeu o 1º lugar no Concurso de Teses e Dissertações da SBC (1999).
+
+Sérgio Borgerrecebeu o Prêmio Alcatel Brasil de Inovação Tecnológica (1998).
+
+Flávio Keidi Miyazawa ficou em 1º lugar no Concurso de Teses e Dissertações da SBC (1998).
+
+ Daniela Vasconcelos Carbogim recebeu o 3º lugar no Concurso de Teses e Dissertações da SBC (1997).
+
+ Marko Loparic recebeu o 2º lugar no Concurso de Teses e Dissertações da SBC (1997).
+
+Sérgio Borgerficou em 1º lugar no IV Concurso CLEI-UNESCO de Teses de Mestrado (1997).
+
+ Bruno Ohana e Alexandre Cardoso Garcia Leite ficaram em 1º lugar no Concurso Nacional de Software para Instituições de Ensino Superior (1996) com o Software Otimize.
+
+Nina Sumiko Tomita ficou em 1º lugar no Concurso de Teses e Dissertações da SBC (1996).
+
+Fábio Kon ganhou o prêmio de melhor trabalho apresentado (nível mestrado) no XIII Simpósio Brasileiro de Redes de Computadores, Belo Horizonte (1995).
+
+Renato J. da S. Carmo ficou em 1º lugar no Concurso de Teses e Dissertações da SBC (1995).
+
+Alfredo Goldman recebeu o 3º lugar no I Concurso da CLEI-UNESCO de Teses de Mestrado (1994).
+
+Alfredo Goldman ficou em 1º lugar no Concurso de Teses e Dissertações da SBC (1994).
+
+Andréa Zisman ficou em 3º lugar no Concurso de Teses e Dissertações da SBC(1993).
+ 
+
+Prêmios e distinções obtidos por docentes do DCC
+
+ Em 2011, o Profº Siang Song ganhou o "prêmio do mérito científico da SBC"
+ Em 2011, o Profº Carlos Humes foi um dos contemplados com o prêmio "IBM Faculty Award"
+
+ Em 2010, a Profª. Yoshiko Wakabayashi foi admitida na Ordem Nacional do Mérito Científico, na categoria Comendador.
+
+Prêmio Jabuti 2007 para o livro "Lógica para computação", de autoria dos professores Flávio Soares Correa da Silva, Marcelo Finger e Ana Cristina Vieira de Melo.
+
+ Em 2006, o Prof. Imre Simon recebeu o Prêmio SBC (Sociedade Brasileira de Computação) de Mérito Científico.
+
+ Projeto "Posto Fiscal Eletronico" da Secretaria da Fazenda do Estado de Sao Paulo pelo melhor site de servicos de governo eletronico no VII Congresso de Informatica Publica, CONIP 2001, junho 2001, concedido ao Prof. João Eduardo Ferreira .
+
+ O Prêmio Newton Faller, da Sociedade Brasileira de Computação, em 2001, foi concedido ao Prof. Siang Wun Song.
+
+ O Prof. Yoshiharu Kohayakawa foi admitido na Academia Brasileira de Ciências como membro titular (área Ciências Matemáticas) em 2000, tendo sido admitido como membro associado em 1998.
+
+ O Prof. Roberto M. Cesar Jr. recebeu o 1º lugar no I Concurso Ibero-americano de Teses e Dissertações em Inteligência Artificial - 1998.
+
+ Em 1996, o Prof. Imre Simon foi admitido na Ordem Nacional de Mérito Científico, na categoria de Grã-Cruz, área de Ciências Matemáticas.
+
+ Em 1989, o Prof. Imre Simon recebeu o Prêmio UAP, da França, dividido com M. Gromov do IHES (França) e J. Steglitz da Univ. de Stanford (E.U.A.).
+
+ Em 1979, o Prof. Imre Simon foi admitido na Academia Brasileira de Ciências, como membro titular, na área de Ciências Matemáticas.
+
+ Em 1979, o Prof. Imre Simonrecebeu o Prêmio Jabuti de Ciências Exatas.
+ 
+
+Caso você detecte algum prêmio ganho por ex-alunos ou docentes do DCC que não esteja listado aqui, envie uma mensagem para webmaster@ime.usp.br
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Sobre o DCC  Docentes visitantes
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Professores visitantes ou palestrantes
+Nos últimos anos, os seguintes pesquisadores visitaram ou proferiram palestras no Departamento de Ciência da Computação do IME-USP:
+
+ 
+
+2010
+Frederick P. Brooks Jr.	University of North Carolina at Chapel Hill
+EUA
+21/10	Fabio Kon
+Juliano Maranhão	Faculdade de Direito da USP	Brasil	29/04	Fabio Kon
+Juergen Schmidt	Sun Microsystems	Alemanha	19/04	Fabio Kon
+Berthier Ribeiro-Neto	Google	Brasil	28/04	Fabio Kon
+Paulino Michelazzo	Fabrica Livre	Brasil	23/06	Fabio Kon
+Michael Hanselmann	Google	Switzerland	12/06	Fabio Kon
+Ian Pratt	Xen.org	Reino Unido
+Inglaterra
+30/08	Fabio Kon
+Christoph Hellwig	Linux Kernel Team	Alemanha	30/08	Fabio Kon
+Mary Poppendieck	Mathematics University of Maryland College Park	EUA
+31/08
+Alfredo Goldman
+Peter Allen	University of Warwick	Reino Unido Inglaterra	1/01 a 28/02	Yoshiharu Kohayakawa
+Andreas Würfl	TU Müchen (aluno de doutorado)	Alemanha	5/03 a 3/04	Yoshiharu Kohayakawa
+Alexandre Falcão	Unicamp	Brasil	9/04	Roberto Hirata Jr.
+Aldo Procacci	UFMG	Brasil	21 a 24/04	Yoshiharu Kohayakawa
+Ricardo Torres	Unicamp	Brasil	23/04	Roberto Hirata Jr.
+Roberto Andreani	Unicamp	Brasil	29/04	Ernesto Birgin
+Rodrigo de Salvo	Braz SRI International – AI Center	EUA	29/04	Renata Wassermann
+Luciana Arantes	LIP 6	França	17 a 21/05	Alfredo Goldman
+João Paulo Papa	Unicamp/Unesp	Brasil	11/6	Ernesto Birgin
+Balázs Ráth	Budapest University of Technology and Economics	Hungria	9/7	Yoshiharu Kohayakawa
+Sangjune Lee	Emory University (doutorando)	EUA	31/7	Yoshiharu Kohayakawa
+Marie-France Sagot	Univ. Lyon	França	26 a 30/07	Yoshiko Wakabayashi
+Alberto Marchetti-Spaccamela	Univ. Roma	Itália	26 a 30/07	Yoshiko Wakabayashi
+Pierluigi Crescenzi	Univ. Degli Studi di Firenzi	Itália	26 a 30/07	Yoshiko Wakabayashi
+Leen Stougie	Univ. Amsterdam	Holanda	26 a 30/07	Yoshiko Wakabayashi
+Pierre Peterlongo	INRIA, Rennes	França	26 a 30/07	Yoshiko Wakabayashi
+Paulo Vieira Milreu	Univ. Claude Bernard	França	26 a 30/07	Yoshiko Wakabayashi
+Cecília Klein	Univ. Claude Bernard	França	26 a 30/07	Yoshiko Wakabayashi
+Christian Baudet	Univ. Claude Bernard	França	26 a 30/07	Yoshiko Wakabayashi
+José Mario Martinez	Unicamp	Brasil	19/08	Ernesto Birgin
+Bernhard Krön	Univ. Vienna	Áustria	30/08	Yoshiharu Kohayakawa
+Daniel Cordeiro	Universités de Grenoble (doutorando)	França	08/2010 a 04/20 11	Alfredo Goldman
+Luciana Arantes	LIP 6	França	09 a 12/08
+09 a 13/10	Alfredo Goldman
+Sandra Augusta Santos	Unicamp	Brasil	30/09	Ernesto Birgin
+Franscisco Nogueira C. Sobral	Unicamp	Brasil	7/10	Ernesto Birgin
+Roberto Andreani	Unicamp	Brasil	21/10	Ernesto Birgin
+Robert Morris	IMPA	Brasil	27 a 30/10	Yoshiharu Kohayakawa
+Simon Griffitths	IMPA	Brasil	27 a 30/10	Yoshiharu Kohayakawa
+Prof. Calton Pu	Georgia Tech	EUA	15/10	João Eduardo Ferreira
+Luis Felipe Bueno	Unicamp	Brasil	4/11	Ernesto Birgin
+Afonso Ferreira	CNRS	França	13/11	Alfredo Goldman
+Nicolas Schabane	CNRS	França	11/11	Cristina Gomes Fernandes
+Leandro da Fonseca Prudente	Unicamp	Brasil	11/11	Ernesto Birgin
+Johanne Cohen	NRIA	França	23/11	Alfredo Goldman
+Walter Gómez Bofill	Universidad de La Frontera	Chile	18/11	Ernesto Birgin
+Hiêp Hàn	Universidade de Berlim (doutorando)	Alemanha	9/11 a 08/12	Yoshiharu Kohayakawa
+Aline Carneiro	INRIA	França	2/12	Alfredo Goldman
+Luciana Arantes	LIP 6	França	19 a 22/12	Alfredo Goldman
+
+
+Anos anteriores
+
+A. Robin Forrest - University of East Anglia (2 semanas)
+Alexander Martin - Konrad-Zuse-Zentrum, Berlim (2 semanas)
+Alfred Menezes - Auburn University
+Angel Sánchez - Universidad Politécnica de Madrid
+Aviezri Fraenkel - Weizmann Inst of Science (1 semana)
+Béla Bollobás - Univ. of Cambridge (1 mês)
+Calton Pu - Columbia University
+Christian Choffrut - Univ. de Rouen e Paris (2 meses)
+Clóvis C. Gonzaga - COPPE/UFRJ
+Daniel Dalarossa - Cyclades Inf.
+Daniel Younger - University of Waterloo
+Dominique Perrin - LITP Univ. de Paris (2 semanas)
+Edmundo de Souza e Silva - UFRJ
+Edson Norberto Cáceres - Universidade Federal do Mato Grosso do Sul
+Eli Upfal - Weizmann Inst. of Science (1 semana)
+Eliezer Lozinski - Hebrew University (1 semana)
+Endika Bengoetxea - University of the Basque Country - Spain
+Erich Neuhold - Inst. de Informática T.H. Darmstadt
+Fernando Antônio de C. Gomes - UFC
+Frank Dehne - Carleton University (3 semanas e 2 meses)
+Frank van Harmelen - University of Amsterdam
+Frederic Maffray - CNRS, Grenoble e COPPE, RJ
+Gerald J. F. Banon - INPE
+Gerhard Koch - GMD First, Berlin (2 semanas)
+Gerhard Reinelt - Universität Heidelberg, RFA
+Graham R. Brightwell - London School of Economics (3 semanas)
+Guilherme Bittencourt - INPE
+Hazel Everett - Université du Quebec a Montreal
+Ilda Perez Fernandez Silva - Universidade de Lisboa
+Isabelle Bloch - Ecole Nationale Supérieure des Télécommunications - ENST PARIS
+Jacques Sakarovitch - Inst. Blaise Pascal(2 meses)
+Jacques Stern - École Normale Supérieure, Paris
+Jairo Panetta - Instituto de Estudos Avançado do CTA
+Jayme Szwarcfiter - UFRJ
+Jean Eric Pin - CNRS e Univ. de Paris (2 meses)
+Jonathan M. Smith - University of Pennsylvania
+Jorge Almeida - Universidade do Porto (1 ano)
+Kenji Koyama - NTT, Japão (2 meses)
+Larry Gilligan - University of Cincinnati
+Luciano da Fontoura Costa - USP, São Carlos
+M. Sintzoff - Bélgica
+Marc Zaitoun - Université Paris VII (3 semanas)
+Marcus V. Poggi de Aragão - UNICAMP
+Martin Grötschel - Tech. Univ. Berlin e ZIB (1 semana)
+Martin Loebl - Charles University, Prague (5 semanas)
+Maurício Mattos Peixoto - IMPA
+Michael Shub - IBM, Yorktown Heights
+Mounir Hamdi - Hong Kong University of Science and Technology (3 semanas)
+Nelson Delfino D'Avila Mascarenhas - INPE
+Nívio Ziviani - UFMG
+Olivier Carton - Université de MArne-la-Vallé (1 mês)
+Olivier Faugeras - INRIA
+Paul Erdös - Academia Húngara de Ciências (3 semanas)
+Paulo César de Carvalho - IMPA
+Pavol Hell - Simon Fraser University
+Pedro Sérgio de Souza - UNICAMP
+Penny Haxell - University of Waterloo (4 semanas)
+Pierre Fraigniaud - École N. Sup. de Lyon (1 semana)
+Ralf Borndörfer - Konrad-Zuse-Zentrum e Technische Universität, Berlim (5 semanas)
+Ricardo Baeza-Yates - Universidade de Chile
+Ricardo Dahab - UNICAMP
+Roberto Lotufo - UNICAMP
+Ron Holzman - Weizmann Inst. of Science (1 semana)
+Santiago Negrete - Edinburgh University
+Simon Thompson - Universidade de Kent, Inglaterra
+Sóstenes Lins - Universidade Federal do Pernambuco
+Stephen Smale - Berkeley
+Timothy Griffin - UNICAMP
+Tomasz Luczak - Poznan e Acad. Polonesa de Ciências (10 semanas e 3 meses)
+U.S.R. Murty - University of Waterloo
+Ulrich Schiel - Universidade Federal da Paraíba
+Véronique Bruyère - Mons-Hainaut
+Yoshiyasu Ishigami - University of Electro-Communications, Tóquio (4 semanas)
+Yves Robert - École N. Sup. de Lyon (2 semanas)
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Graduação em Ciência da Computação
+O curso de Ciência da Computação estuda o desenvolvimento de sistemas para as múltiplas plataformas e a construção de soluções computacionais para problemas da sociedade. O bacharel formado trabalha com as diversas etapas e abordagens do desenvolvimento de software e está preparado para resolver problemas reais, aplicando soluções que unam a teoria e a prática. Modelar bancos de dados, desenvolver e implementar projetos de software e propor soluções computacionais eficientes e econômicas são apenas algumas de suas atividades.
+
+Com a crescente demanda por profissionais da área e a excelência da formação do IME/USP, os formandos não encontram dificuldade em ingressar neste mercado. Empresas de computação e de telecomunicações, consultorias, órgãos governamentais, mercado financeiro e sistemas Web são apenas alguns segmentos que dependem diretamente do bacharel em Ciência da Computação. Vários formandos, ainda, empreendem e montam seus próprios negócios, enquanto outros continuam na carreira acadêmica e partem para o mestrado e o doutorado, tornando-se pesquisadores em universidades e empresas.
+
+O mercado não é o único atrativo do bacharelado do IME. O curso proporciona uma série de complementos à formação acadêmica, como intercâmbios internacionais, atividades e projetos de pesquisa e inúmeros eventos, congressos e seminários. O leque de opções oferecidas está, em grande parte, baseado na estrutura da USP, que conta ainda com diversas atividades culturais (exposições, peças, filmes, debates, concertos e outras atividades gratuitas) e esportivas (a USP dispõe de um clube que pode ser utilizado por todos os alunos), além dos programas sociais.
+
+Com a primeira turma formada em 1974, o curso de Ciência da Computação do IME/USP é um dos melhores e mais tradicionais de todo o país. O bacharelado tem duração de 4 anos e oferece anualmente 60 vagas no período diurno para quem deseja explorar o mundo da computação e da informática. Além da formação básica, os ingressantes têm uma grade horária rica e flexível, possibilitando um aprofundamento nas áreas de interesse pessoal, através da escolha de 10 disciplinas entre as dezenas de optativas do curso. Com isso, o IME possibilita a entrada de profissionais cada vez mais capacitados e versáteis no meio acadêmico e no mercado de trabalho.
+
+
+Para saber mais sobre a área da Ciência da Computação e o curso do IME acesse Portal do Vestibulando e BCC
+
+
+Comissão Coordenadora do Curso
+
+ 
+
+ 
+
+ 
+
+Vagas oferecidas no vestibular 2020
+
+Curso
+
+FUVEST
+
+SISU
+
+
+Vagas
+
+ 	
+EP
+
+ 	 	
+EP
+
+ 
+AC
+
+EP
+
+PPI
+
+Total
+
+AC
+
+EP
+
+PPI
+
+Total
+
+Bacharelado em Ciência da Computação
+
+27
+
+16
+
+11
+
+54
+
+6
+
+ 	 	
+6
+
+60
+
+Legenda
+EP: vagas destinadas exclusivamente para estudantes de escolas públicas
+PPI: vagas destinadas exclusivamente para estudantes preto, pardos e indígenas
+AC: vagas destinadas para ampla concorrência
+
+ 
+
+Para o vestibular de 2020, o Bacharelado em Ciência da Computação do IME-USP tem 54 vagas oferecidas pela FUVEST e 6 vagas pelo SISU perfazendo um total de 60 vagas. Deste total, 27 vagas da FUVEST são oferecidas exclusivamente para os estudantes de escolas públicas.    
+
+ 
+
+Acesse a página com informações sobre o vestibular para saber como ingressar no Bacharelado em Ciência da Computação do IME-USP: https://www.ime.usp.br/bcc/vestibular
+
+ 
+
+estude no ime mini
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  Pós-Graduação em Computação
+Pós-Graduação em Computação
+Programa
+Áreas de Pesquisa
+Alunos
+Calendário Escolar
+Coordenação
+Disciplinas do Programa
+Disciplinas Oferecidas
+Orientadores
+Produção Acadêmica
+Biblioteca Digital
+Inovação Tecnológica
+Teses e Dissertações
+Script Lattes
+Processo Seletivo
+Inscrições Mestrado e Doutorado
+Aluno Especial
+PAE
+FAQ (Dúvidas Frequentes)
+PNPD
+Normas
+Exame de Proficiência
+Formulários
+Normas Gerais
+Normas para Teses/Dissertações
+Outras Informações
+Alunos Ingressantes
+Alunos Visitantes
+Auxílio a Eventos
+Bolsas de Estudo
+Calendário de Reuniões
+Diploma Digital
+Seminários
+Contato
+Secretaria
+Pós-Graduação em Ciência da Computação
+
+O Programa de Pós-Graduação em Ciência da Computação do IME-USP possui cursos de Mestrado, Doutorado e Doutorado Direto. Com aproximadamente 30 orientadores, a maioria bolsistas de produtividade em pesquisa do CNPq, o programa cobre todas as principais áreas da Ciência da Computação. A qualidade das dissertações e teses desenvolvidas no programa é evidenciada pelos bons resultados obtidos em diversos concursos de teses e dissertações. Egressos do programa ocupam posições de destaque na indústria e também na academia, nas melhores universidades do país. 
+
+Interessados em ingressar em nosso programa devem consultar as informações sobre o processo seletivo e seguir as instruções descritas.
+ 
+ 
+
+ 
+ 
+
+ 
+Em virtude da pandemia da COVID-19, desde o dia 17 de março de 2020, as atividades didáticas passaram a ser ministradas a distância. Com isso, várias medidas precisaram ser adotadas para regulamentar e orientar a comunidade acadêmica sobre a alteração dos procedimentos adotados nesse período. 
+
+Circular/CoPGr/36/2020 - COVID-19 - Sobre prazos - até Julho/2020
+Circular/CoPGr/24/2020 - COVID-19 - Acesso remoto - terceira etapa
+Circular/CoPGr/18/2020 - COVID-19 - Acesso remoto
+Circular/CoPGr/14/2020 - COVID-19 - Sobre prazos
+Circular/CoPGr/13/2020 - COVID-19 - Suspensão dos Editais PrInt USP
+Circular/CoPGr/12/2020 - COVID-19 - Orientação sobre Banca
+Circular/CoPGr/11/2020 - COVID-19 - Orientação para Defesa e Exame de Qualificação
+Circular/CoPGr/10/2020 - COVID-19 - Disciplinas oferecidas na modalidade não presencial
+Circular/CoPGr/08/2020 - COVID-19 - Defesas de Dissertações e Teses por videoconferência
+ 
+
+Orientações para atividades de ensino a distância
+ 
+
+ 
+
+Editais
+
+Prêmio Vídeo Pós-Graduação da USP no combate ao COVID-19
+
+ 
+
+ 
+ 
+ 
+Próximas Defesas
+
+Sem eventos
+ 
+ 
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Graduação em Ciência da Computação
+O curso de Ciência da Computação estuda o desenvolvimento de sistemas para as múltiplas plataformas e a construção de soluções computacionais para problemas da sociedade. O bacharel formado trabalha com as diversas etapas e abordagens do desenvolvimento de software e está preparado para resolver problemas reais, aplicando soluções que unam a teoria e a prática. Modelar bancos de dados, desenvolver e implementar projetos de software e propor soluções computacionais eficientes e econômicas são apenas algumas de suas atividades.
+
+Com a crescente demanda por profissionais da área e a excelência da formação do IME/USP, os formandos não encontram dificuldade em ingressar neste mercado. Empresas de computação e de telecomunicações, consultorias, órgãos governamentais, mercado financeiro e sistemas Web são apenas alguns segmentos que dependem diretamente do bacharel em Ciência da Computação. Vários formandos, ainda, empreendem e montam seus próprios negócios, enquanto outros continuam na carreira acadêmica e partem para o mestrado e o doutorado, tornando-se pesquisadores em universidades e empresas.
+
+O mercado não é o único atrativo do bacharelado do IME. O curso proporciona uma série de complementos à formação acadêmica, como intercâmbios internacionais, atividades e projetos de pesquisa e inúmeros eventos, congressos e seminários. O leque de opções oferecidas está, em grande parte, baseado na estrutura da USP, que conta ainda com diversas atividades culturais (exposições, peças, filmes, debates, concertos e outras atividades gratuitas) e esportivas (a USP dispõe de um clube que pode ser utilizado por todos os alunos), além dos programas sociais.
+
+Com a primeira turma formada em 1974, o curso de Ciência da Computação do IME/USP é um dos melhores e mais tradicionais de todo o país. O bacharelado tem duração de 4 anos e oferece anualmente 60 vagas no período diurno para quem deseja explorar o mundo da computação e da informática. Além da formação básica, os ingressantes têm uma grade horária rica e flexível, possibilitando um aprofundamento nas áreas de interesse pessoal, através da escolha de 10 disciplinas entre as dezenas de optativas do curso. Com isso, o IME possibilita a entrada de profissionais cada vez mais capacitados e versáteis no meio acadêmico e no mercado de trabalho.
+
+
+Para saber mais sobre a área da Ciência da Computação e o curso do IME acesse Portal do Vestibulando e BCC
+
+
+Comissão Coordenadora do Curso
+
+ 
+
+ 
+
+ 
+
+Vagas oferecidas no vestibular 2020
+
+Curso
+
+FUVEST
+
+SISU
+
+
+Vagas
+
+ 	
+EP
+
+ 	 	
+EP
+
+ 
+AC
+
+EP
+
+PPI
+
+Total
+
+AC
+
+EP
+
+PPI
+
+Total
+
+Bacharelado em Ciência da Computação
+
+27
+
+16
+
+11
+
+54
+
+6
+
+ 	 	
+6
+
+60
+
+Legenda
+EP: vagas destinadas exclusivamente para estudantes de escolas públicas
+PPI: vagas destinadas exclusivamente para estudantes preto, pardos e indígenas
+AC: vagas destinadas para ampla concorrência
+
+ 
+
+Para o vestibular de 2020, o Bacharelado em Ciência da Computação do IME-USP tem 54 vagas oferecidas pela FUVEST e 6 vagas pelo SISU perfazendo um total de 60 vagas. Deste total, 27 vagas da FUVEST são oferecidas exclusivamente para os estudantes de escolas públicas.    
+
+ 
+
+Acesse a página com informações sobre o vestibular para saber como ingressar no Bacharelado em Ciência da Computação do IME-USP: https://www.ime.usp.br/bcc/vestibular
+
+ 
+
+estude no ime mini
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Histórico do BCC
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Histórico
+O Bacharelado em Ciência da Computação da USP está entre os mais antigos do país, tendo formado sua primeira turma em 1974. Veja algumas relíquias dos primórdios do curso, reunidas pelo Prof. Siang W. Song.
+
+Até o ano de 1983, o BCC era uma das opções para os ingressantes no curso de Matemática. Naquela época, eram oferecidas 30 vagas para os alunos do período diurno e 6 vagas para os alunos do período noturno. A partir 1984, o BCC passou a ser uma opção do vestibular da Fuvest, dentro da carreira de Ciências Exatas, oferecendo 36 vagas por ano. Em 1988, o Departamento de Ciência da Computação passou a oferecer 50 vagas por ano. O curso é um dos mais procuradas no vestibular da Fuvest (60 candidatos por vaga no vestibular de 2001 e mais de 52 candidatos por vaga no vestibular de 2002).
+
+Até sua 32ª turma (ano 2006), mais de 1080 bacharéis foram formados no BCC. Diversas atividades procuram manter vivo o contato entre os ex-alunos. Em de 1984 o BCC comemorou seus 10 anos. Seguiram-se as festas
+
+* dos 20 anos, em 1994
+* dos 25 anos, em 1999
+* dos 30 anos, em 2004
+
+O BCC é reconhecido como um dos melhores cursos de Computação do país e seus alunos não encontram problemas de integração no mercado de trabalho. Os alunos de graduação criaram uma Empresa Júnior (IMEjr). Os alunos também criaram e administram a rede GNU/Linux do IME.
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Ex-alunos
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Ex-alunos
+A primeira turma de alunos do BCC concluiu o curso em 1974. O BCC tem formado alunos desde então. Veja
+lista completa dos ex-alunos
+estatísticas a respeito do número de formados
+ 
+
+Algumas atividades realizadas com os ex-alunos:
+Festa dos 20 anos do BCC - 1994
+Festa dos 25 anos do BCC - 1999
+Festa dos 30 anos do BCC - 2004
+bccex: mailing list dos ex-alunos do BCC
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Depoimentos de ex-alunos
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Depoimentos de ex-alunos
+A seguir estão alguns trechos de depoimentos de ex-alunos do curso.
+
+
+“A minha formação em ciência da computação na USP é a base da minha carreira internacional e do meu futuro. Sem dúvida, faria tudo novamente”
+Henrique Ceribelli, gerente de produto da Bill.com (Start-up na Califórnia)
+
+
+“Mais de 20 anos após ter terminado o curso ainda tenho a sorte de estar envolvido em desenvolvimento de software no meu dia a dia. Trabalho como desenvolvedor aqui em Redmond (estado de Washington) no time responsável pelo software básico do Windows Automotive (solução usada no Ford Sync e FIAT Blue & Me). No meu trabalho uso diariamente os conceitos que aprendi no BCC”
+Mario Bonini Biazzi, software development engineer da Microsoft
+
+
+“O BCC é um curso fantástico, que me deu a base técnica sólida em matemática e ciência da computação que faz a diferença em meu trabalho até hoje. Eu acho que não poderia ter feito um curso melhor em alguma outra universidade”
+Márcio Grossi de Almeida, gerente de TI da Hexacta
+
+
+“Tendo já muitos anos de mercado, e sendo mais velho, a passagem pelo IME foi uma oportunidade também para perceber o valor de um aluno do IME. Eu mesmo contratei de 20 a 30 IMEanos diretamente e indiquei outros tantos. A diferença é brutal.”
+Rubens Altimari, proprietário da Whitehat Software
+
+
+“Estudar Computação no IME-USP abriu diversas oportunidades na minha carreira profissional. Já no segundo ano de curso comecei a fazer estágios em empresas do ramo. E, devido às diversas oportunidades de iniciação científica que o curso oferece, descobri o prazer de se fazer pesquisa.”
+Seiji Isotani, doutorando da Osaka University, Japan
+
+
+“O IME foi o berço da empresa que fundei juntamente com meu irmão, a Caelum, que hoje tem 60 colaboradores. Sem duvida as conversas com Carlinhos, Coelho, Feofiloff, Reverbel, Kon e outros professores abriram caminho e incentivaram o meu empreendedorismo e o de outros colegas, que dentro do IME realizaram diversas empreitadas”
+Paulo Eduardo Silveira, sócio diretor da Caelum
+
+
+“Procurei aproveitar ao máximo as oportunidades que o IME, bem como a USP em geral, proporcionam aos seus alunos. Além das matérias do BCC em si, trabalhei como monitor, participei de uma iniciação científica e tive a chance de cursar disciplinas de outras áreas, como as da FEA. No início da minha vida profissional, um ponto de destaque é que o sistema no qual trabalhei a maior parte do tempo havia sido criado por três ex-alunos do BCC, um dos quais era o meu gerente”
+Rodrigo Mendes Leme, analista de sistemas da Convergys
+
+
+“Tecnologias mudam e avançam a cada hora; a base sólida do BCC forma profissionais capazes de adaptar-se a mudanças no mercado – além de ter a grande vantagem de oferecer a opção acadêmica para quem quer continuar em estudos mais avançados, estudando no Brasil ou no exterior”
+Lucia Moura, professora associada da University of Ottawa, Canadá
+
+
+“O curso de Ciência da Computação me proporcionou uma formação abrangente. Ou seja, ele não me ensinou uma linguagem de programação ou tecnologia. Ele me ensinou a aprender qualquer linguagem ou tecnologia”
+Marcos Augusto Nagamura, desenvolvedor web
+
+
+“O mercado de trabalho realmente é muito bom para nossa área, o salário é muito bom, com opções de trabalho inclusive no exterior. O diploma de um curso da USP sem dúvida também abre várias portas”
+Luis Francisco Rodrigues, consultor técnico da LabCentrix LLC
+
+
+“O BCC ensina algumas coisas não óbvias que não estão no currículo da disciplina e são supervalorizadas no mercado”
+Daniel Muller, gerente de projetos de TI da Fleury Medicina e Saúde
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  FAQ
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+FAQ
+Este arquivo contém as respostas para as perguntas que recebemos com maior freqüência a respeito do Bacharelado em Ciência da Computação (BCC) da USP. Vale a pena dar uma olhada nele para obter mais informações a respeito do curso.
+
+Uma nova pergunta é incluída neste arquivo toda vez que a recebemos algumas vezes. Com isso o tamanho deste arquivo deve crescer...
+
+ 
+
+As perguntas estão separadas em seções:
+
+Organização e características do curso
+Ingresso no BCC (vestibular e transferência)
+Disciplinas e turmas de disciplinas
+Normas de matrícula dos alunos do BCC
+Cancelamento da matrícula
+Estágios
+Estatísticas do BCC
+ 
+
+Organização e características do curso
+Quem é o responsável pelo BCC?
+R. A Comissão Coordenadora (Coc) do BCC
+Existem outros cursos de Computação na USP?
+R. Além do BCC, a USP oferece alguns outros cursos de Computação no campus de São Carlos e o curso de Engenharia de Computação na POLI.
+Qual a diferença entre Ciência da Computação e Engenharia da Computação?
+R. De uma forma geral, cursos de Ciência da Computação dão mais ênfase ao desenvolvimento de sistemas de computação (software), enquanto cursos de Engenharia de Computação dão mais ênfase ao hardwaree a aplicações como automação industrial.
+Quantas vagas são oferecidas?
+R. O BCC oferece 60 vagas por ano atraves do vestibular da FUVEST.
+Qual é a duração do curso? É seriado?
+R. O BCC é um curso de 4 anos (8 semestres), em regime semestral e não é seriado. Veja o currículo do curso.
+Onde obtenho mais informações sobre o BCC?
+R. Outras informações sobre o BCC podem ser obtidas na página do curso. As ementas das diversas disciplinas do curso podem ser consultadas no Catálogo.
+ 
+
+Ingresso no BCC (vestibular e transferência)
+O Vestibular é muito concorrido?
+R. O BCC é uma das opções dentro da carreira Engenharia, Computação e Matemática da FUVEST, juntamente com os cursos de Engenharia (POLI), Bacharelado em Matemática Aplicada (IME) e Bacharelado em Matemática Aplicada e Computacional (IME). Nos últimos vestibulares, a relação candidatos/vaga tem sido superior a 50 (foi de 60 no vestibular de 2001 e 52 no de 2002). O sítio da FUVEST dispõe de todas as estatísticas a respeito.
+Existe transferência para o BCC?
+R. Sim. Anualmente, todas as vagas decorrentes do jubilamento e desistencia de alunos são abertas para o processo de transferência. Vale lembrar que o número de vagas é usualmente muito pequeno e o número de candidatos à transferência é grande. Veja a página "Transferência ao BCC".
+ 
+
+Disciplinas e turmas de disciplinas
+O que são optativas eletivas?
+R. Optativas eletivas são disciplinas da área de computação que fazem parte do currículo do curso mas não são obrigatórias; veja lista completa na página do currículo do BCC. Cada aluno deve acumular pelo menos 32 créditos-aula em disciplinas optativas eletivas. Isso corresponde, usualmente, a 8 disciplinas.
+O que são optativas livres?
+R. Optativas livres (antigamente conhecidas como "fora de área") são disciplinas de áreas distintas da do curso do aluno. Cada aluno do BCC deve obter pelo menos 6 créditos-aula (tipicamente duas disciplinas) em optativas livres. Qualquer disciplina oferecida por uma unidade diferente do IME é aceita como optativa livre.
+O que são vagas obrigatórias, vagas eletivas, etc?
+R. Quando uma disciplina é oferecida em determinado semestre, abre-se uma turma dessa disciplina. Cada turma tem um certo número de vagas em cada uma de quatro categorias: obrigatórias, eletivas, livres e extracurriculares. As vagas obrigatórias são destinadas aos alunos em cujo curso a disciplina é obrigatória; as eletivas são destinadas aos alunos em cujo curso a disciplina é optativa eletiva; e assim por diante. (Há ainda as vagas especiais, destinadas às pessoas que não são alunos da USP mas querem cursar uma disciplina avulsa.)
+O que são créditos-aula e créditos-trabalho?
+R. Cada disciplina dá direito a um certo número de créditos-aula e um certo número de créditos-trabalho. Cada 15 horas de aulas correspondem a 1 crédito-aula. Cada 30 horas de trabalho (laboratório, por exemplo) correspondem a 1 crédito-trabalho. A maior parte das disciplinas de sigla MAC dá direito a 4 créditos-aula e 0 créditos-trabalho.
+A disciplina Prática Esportiva foi extinta?
+R. Sim. A Pró-Reitoria de Graduação eliminou a Prática Esportiva de todos os cursos da USP. Você pode continuar, se quiser, indo ao CEPEUSP se inscrever nas atividades oferecidas. Mas, essas atividades são extracurriculares, e não constarão no seu currículo.
+ 
+
+Normas de matrícula dos alunos do BCC
+Como funciona o processo de matrículas?
+R. No fim de cada semestre cada aluno deve se matrícular nas disciplinas que pretende cursar no semestre seguinte. O processo é administrado pelo sistema Júpiter.
+Posso fazer uma disciplina no período noturno?
+R. Apenas as disciplinas FLC0474 (Língua Portuguesa) e optativas livres são permitidas no período noturno. Exceções poderão ser feitas para os jubilandos.
+Vou passar um tempo em uma universidade no exterior. Posso fazer alguma disciplina de lá contar crédito para o BCC?
+R. Sim. Se você vai fazer algum tipo de intercâmbio em universidade estrangeira e cursar disciplinas de computação lá pode fazer com que os créditos sejam aproveitados. Entre em contato com a Cocpara mais detalhes a respeito.
+Quais são os pré-requisitos das disciplinas de sigla MAC?
+R. Para quase todas as disciplinas de sigla MAC, o pré-requisito é MAC0121 (Algoritmos e Estruturas de Dados I). Para informações mais precisas, consulte o Catálogo.
+Posso fazer uma disciplina sem ter o pré-requisito?
+R. Se você precisa cursar qualquer disciplina sem ter o pré-requisito, deve fazer um requerimento à CG.
+Quem pode me ajudar a escolher as optativas?
+R. Procure seu tutor, ou alguém da Coc.
+Posso cursar uma disciplina em outra turma que não a do BCC (por exemplo, Cálculo III na Física)?
+R. Essa matrícula só poderá ser efetuada através de requerimento dirigido à CG do IME. Cada caso é julgado em separado.
+Quando devo fazer esses requerimentos?
+R. O quanto antes. De preferência, os requerimentos devem estar prontos na época da matrícula, ou seja, antes do fim do semestre anterior. Esteja também atento aos prazos regulamentares descritos no Calendário Escolar USP. Requerimentos encaminhados fora de prazo têm sido freqüentemente indeferidos na CG.
+ 
+
+Cancelamento da matrícula
+A matrícula de um aluno pode ser cancelada em várias circunstâncias. Esse ato de cancelamento de matrículada é conhecido informalmente como "jubilamento" ou "desligamento".
+
+Sendo calouro eu já posso ser jubilado?
+R. Sim. Se você for reprovado por freqüência em todas as disciplinas de um dos dois primeiros semestres do ano de ingresso, você será jubilado administrativamente.
+O que é a "regra dos 20%"?
+R. No fim de cada semestre, conta-se o número de créditos em que o aluno se matriculou nos 4 semestres anteriores. Se o aluno tiver obtido menos que 20% daquele número de créditos, sua matrícula matrícula fica sujeita à aprovação da CG. Convém lembrar que em cada semestre o aluno deve estar matriculado em pelo menos 12 créditos (a menos que obtenha trancamento total do semestre).
+Existem outras regras de jubilamento?
+R. Sim. Caso o aluno não obtenha nenhum crédito em 4 semestres consecutivos, ele é jubilado administrativamente. Caso o aluno deixe de se matricular por 3 semestres consecutivos, ele é jubilado administrativamente. Veja também as "Informações para Alunos" no sítio da Pró-Reitoria de Graduação.
+Qual é a duração máxima do curso?
+R. Oito anos (os trancamentos totais não são contados). Depois de 8 anos, o aluno deve apresentar um plano de conclusão de curso, e pode ser jubilado em qualquer semestre.
+Não estou conseguindo levar o semestre; o que faço?
+R. Para evitar cair nas regras de jubilamento descritas acima, o melhor é trancar algumas disciplinas, ou mesmo todo o semestre. Para o trancamento total, você precisa ter acumulado pelo menos 24 créditos, estar matriculado no semestre corrente e não ter sido reprovado por faltas. Caso você tenha dúvidas, procure o seu tutor ou a Coc.
+Por quanto tempo posso trancar matrícula?
+R. Máximo de 4 semestres. Um quinto semestre de trancamento depende de aprovação especial da CG.
+ 
+
+Estágios
+Posso fazer estágio enquanto curso o BCC?
+R. Sim. Você pode fazer um estágio em qualquer empresa que tenha (ou esteja disposta a fazer) um convênio apropriado com o IME. Veja a página de Estágios do IME. A maioria dos professores do BCC acha que qualquer atividade remunerada fora da USP, em particular qualquer estágio fora da USP, prejudica os estudos. Por isso, recomenda que você não faça estágio antes de ser aprovado em todas as disciplinas dos 4 primeiros semestres da grade curricular.
+Estatísticas do BCC
+É possível se formar em 4 anos (8 semestres)?
+R. Sem dúvida. O tempo médio que os alunos levam é de 4,8 anos.
+ 	Número de
+formados	Terminaram em
+8 semestres
+1998	43	24
+1999	50	17
+2000	55	23
+2001	47	21
+2002	45	?
+É verdade que a evasão do curso é grande?
+R. Nossa evasão histórica é próxima de 25%. No início dos anos 90 a evasão cresceu, mas está retornando aos valores antigos, conforme pode ser conferido na tabela abaixo:
+Evasão média medida em períodos de 5 anos
+1986 a
+1990	1987 a
+1991	1988 a
+1992	1989 a
+1993	1990 a
+1994	1991 a
+1995	1992 a
+1996	1993 a
+1997	1994 a
+1998	1995 a
+1999	1996 a
+2000
+9,44%	22,68%	29,81%	39,19%	43,22%	43,60%	39,20%	40,80%	36,00%	25,60%	20,70%
+ 
+
+Onde encontro outras estatísticas sobre o BCC?
+R. O NAEG (Núcleo de Apoio aos Estudos da Graduação) da USP fez uma pesquisa com nossos ex-alunos e levantou diversas informações a respeito do seu perfil sócio-econômico, colocação profissional, avaliação do curso, etc. Outras estatísticas têm sido realizadas pela Coc e pelo representante anterior do BCC na CG, prof. Carlos Eduardo Ferreira.
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Requerimentos
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Diretrizes para o julgamento de requerimentos
+Existe um número muito grande de requerimentos a cada semestre, vários infundados ou mal preenchidos. Esta situação dificulta em muito a avaliação de cada caso.
+A seguinte lista apresenta as prioridades e serve de guia para o preenchimento dos pedidos, além de tornar o processo transparente.
+
+Antes de fazer um requerimento, leve em consideração os seguintes pontos:
+
+ 
+
+Se uma disciplina obrigatória ou optativa eletiva não aparece no Júpiter para você, então alguma coisa está errada: pode ser um impedimento real ou alguma eventualidade que deve ser explicitada no pedido. ``Não aparece no Júpiter'' não é justificativa suficiente.
+Os casos mais comuns para a ausência da disciplina são:
+Ausência de pré-requisito -- o requerimento será negado, exceto em casos excepcionais. Os seguintes casos nãosão excepcionais:
+Ter tido contato informal com o assunto da disciplina.
+Já ter cursado e ``quase'' passado.
+A disciplina só é oferecida para outro curso no semestre corrente -- se houver vaga o requerimento será considerado para análise.
+Alguma eventualidade como atraso na avaliação ou erro de cadastro.
+Abandonos de disciplinas terão um peso negativo muito grande no julgamento de novas requisições. Se você tiver dificuldade em uma disciplina, pode usar o expediente do trancamento. Abandonos sucessivos lhe colocarão em último lugar na lista de espera.
+Algumas turmas estão superlotadas, não há como aprovar requerimentos para elas.
+Ser provável formando aumenta a chance de aprovação do requerimento, desde que não haja abuso desta condição.
+Requerimentos fora de prazo são negados, a menos que estejam muito bem justificados. ``Estar viajando'' não é uma boa justificativa.
+Matrículas com coincidência parcial de horário serão negadas automaticamente, a menos que seja um caso extremamente excepcional e extremamente bem justificado, quando o requerimento será considerado para análise.
+Matrícula com coincidência total de horário será negada.
+A matrícula em período alternativo está sujeita à presença de vagas, naturalmente.
+Requerimentos para optativas livres serão considerados e aprovados desde que haja vaga e não exista outro tipo de impedimento como pré-requisito ou horário conflitante.
+
+As prioridades para a aprovação de um requerimento são as seguintes, da maior para a menor. Em todos os casos será analisada a razão da matrícula não ter sido feita pelo sistema Júpiter.
+
+ 
+
+Estar na seriação correta e no semestre ideal.
+Não ter reprovações na matéria -- trancamentos não são considerados.
+Provável formando no semestre corrente, desde que ainda não tenha usado este expediente.
+Provável formando, desde que não tenha abandonado a disciplina anteriormente.
+Menor número de reprovações.
+Menor número de abandonos.
+Uma exceção é feita a alunos que dependam apenas da disciplina para se formar.
+
+Acompanhe sempre esta página para estar ao par de alterações e adaptações destas regras.
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Transferência ao BCC
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Transferência ao BCC
+Anualmente, as eventuais vagas ociosas no BCC são colocadas à disposição de alunos de outros cursos. Há duas rodadas do processo:
+
+a transferência interna, destinada a alunos de outros cursos da USP e
+a transferência externa, destinada a alunos de qualquer curso superior.
+O processo de transferência interna ocorre entre dezembro e janeiro (quando há vagas ociosas). Os candidatos selecionados ingressam no BCC no primeiro semestre do ano.
+
+As vagas que sobram do processo de transferência interna são colocadas à disposição da transferência externa, que ocorre entre junho e julho. O processo de transferência externa tem duas fases. A primeira fase consiste de uma prova realizada pela FUVEST. Os candidatos aprovados nesta fase são submetidos a uma segunda fase de seleção a cargo da Comissão Coordenadora do BCC. Os candidatos selecionados na segunda fase ingressam no BCC no segundo semestre do ano.
+
+Para mais informações, consulte "Transferência Interna" e "Transferência Externa" na página da Graduação do IME.
+Veja também o site da FUVEST.
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  CC para Ciências Exatas
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Ciência da Computação para Ciências Exatas
+Muitos alunos que cursam disciplinas de Introdução à Ciência da Computação (CC) do IME-USP se interessam por continuar os estudos na área. Com um pouco de planejamento e motivação, é possível realizar outras disciplinas para complementar sua formação em CC, podendo chegar a estágios de Iniciação Científica, Pós-Graduação (Mestrado e Doutorado) e posterior atuação dentro e fora da universidade (ex. empresas e governo). Se você cursou uma disciplina como MAC110, MAC113, MAC115 ou MAC2166 e se interessa por continuar seus estudos na área de Computação, eis algumas dicas:
+Tente cursar uma boa seqüência de disciplinas no IME-USP. Uma seqüência adequada pode ser:
+        MAC0122 - Princípios de Desenvolvimento de Algoritmos
+        MAC0211 - Laboratório de Programação I
+        MAC0323 - Estruturas de Dados
+        MAC0338 - Análise de Algoritmos
+
+Esses cursos normalmente oferecem vagas para alunos de outros institutos.
+
+Que tal participar de uma maratona para se exercitar? Tem também a Maratona da USP. Venha conhecer!
+
+Procure um orientador para desenvolver uma Iniciação Científica: Isso poderá representar uma boa oportunidade de conseguir uma bolsa do CNPq, da Fapesp ou de algum convênio com empresas. O seu orientador poderá ajudá-lo a escolher disciplinas de graduação voltadas para seu interesse.
+
+Considere também a possibilidade de realizar alguns dos Cursos de Verão do IME-USP para complementar sua formação e prepará-lo para entrar na Pós-Graduação.
+
+Finalmente, planeje sua entrada na Pós-Graduação em Computação no IME-USP. Procure ler as informações do programa e tirar suas dúvidas com seu orientador de Iniciação Científica. Você terá, assim, chance de realizar seu mestrado e doutorado em Computação, inclusive com bolsa. Não se esqueça que você precisará prestar o Poscomp.
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Projeto Apoio ao BCC
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Projeto Apoio ao BCC
+Apoio ao Bacharelado em Ciência da Computação (BCC) é um projeto da Comissão de Coordenação (CoC) do BCC do Instituto de Matemática e Estatística da USP financiado pelo Programa Ensinar com Pesquisa da Pró-Reitoria de Graduação da USP e pelo próprio Instituto. Com este projeto a CoC pretende:
+
+diminuir a evasão do BCC através de uma maior integração das disciplinas e de um currículo mais atraente e atual;
+criar vínculos com ex-alunos através de pesquisas, divulgação de eventos e mantendo um acervo com vídeos e fotos;
+pesquisar grades curriculares de ciência da computação para uma eventual reformulação da grade curricular do BCC;
+e preparar vídeos curtos de apresentação das disciplinas do BCC.
+
+Acesse bcc.ime.usp.br
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  BCC  Vestibular FUVEST e SiSU
+BCC
+Docentes
+Histórico do BCC
+Grade Curricular
+Catálogo de Disciplinas
+Horário das Disciplinas
+Trilhas
+Ex-alunos
+Depoimentos de ex-alunos
+FAQ
+Requerimentos
+Transferência ao BCC
+CC para Ciências Exatas
+Projeto Apoio ao BCC
+Vestibular FUVEST e SiSU
+Vestibular FUVEST e SiSU
+estude no ime v2
+
+ 
+
+As vagas para os cursos de graduação do IME-USP são preenchidas por meio de um exame vestibular coordenado pela FUVEST e através do SiSU, para candidatos participantes do ENEM. 
+
+ 
+
+FUVEST 2020 
+
+O edital do Concurso Vestibular FUVEST 2020 prevê a realização de duas fases, sendo a nota da primeira fase utilizada tanto para a seleção dos candidatos habilitados à segunda fase quanto para a classificação final.
+
+Ao se inscrever, o aluno opta por uma carreira, pelos cursos da carreira e por uma das modalidades de concorrência abaixo:
+
+Ampla Concorrência - vagas disponibilizadas para todos os candidatos, sem exigência de nenhum outro pré-requisito.
+
+Ação Afirmativa EP - vagas destinadas aos candidatos que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas brasileiras.
+
+Ação Afirmativa PPI - vagas destinadas aos candidatos autodeclarados pretos, pardos e  indígenas que, independentemente da renda, tenham cursado integralmente o ensino médio em escolas públicas brasileiras.
+
+ 
+
+A prova de Conhecimentos Gerais é constituída de noventa questões, sob a forma de teste de múltipla escolha, com cinco alternativas, sendo correta apenas uma delas. A segunda fase é constituída por provas de Conhecimentos Específicos, com duas provas de natureza discursiva no primeiro dia (Prova de Português e Redação) e prova de disciplinas específicas no segundo dia.
+
+ 
+
+ 
+
+Vagas oferecidas para os cursos de graduação do IME-USP
+Em consonância ao modelo de inclusão adotado pela Universidade de São Paulo, que foca o aluno de escola pública, o IME-USP destina uma parcela de suas vagas para estudantes de escolas públicas (EP) e pretos, pardos e indígenas (PPI), grupos historicamente excluídos da sociedade brasileira e das salas de aula do ensino superior.
+
+ 
+
+Para o vestibular de 2020, o IME-USP oferece 280 vagas pela FUVEST e 70 vagas pelo SISU perfazendo um total de 350 vagas para os seus cursos de graduação. Deste total, 159 vagas são oferecidas exclusivamente para os estudantes de escolas públicas, sendo: 102 pela FUVEST e 57 pelo SISU. 
+
+                       
+
+Vagas oferecidas no vestibular 2020
+
+Curso
+
+FUVEST
+
+SISU
+
+
+Vagas
+
+ 	
+EP
+
+ 	 	
+EP
+
+ 
+AC
+
+EP
+
+PPI
+
+Total
+
+AC
+
+EP
+
+PPI
+
+Total
+
+Bacharelado em Ciência da Computação
+
+27
+
+16
+
+11
+
+54
+
+6
+
+ 	 	
+6
+
+60
+
+Bacharelado em Estatística
+
+22
+
+5
+
+7
+
+34
+
+ 	
+6
+
+ 	
+6
+
+40
+
+Bacharelado em Matemática
+
+16
+
+5
+
+3
+
+24
+
+ 	
+3
+
+3
+
+6
+
+30
+
+Bacharelado em Matemática Aplicada
+
+9
+
+5
+
+4
+
+18
+
+2
+
+ 	 	
+2
+
+20
+
+Bacharelado em Matemática Aplicada e Computacional
+
+22
+
+14
+
+9
+
+45
+
+5
+
+ 	 	
+5
+
+50
+
+Licenciatura em Matemática - diurno
+
+27
+
+7
+
+1
+
+35
+
+ 	
+7
+
+8
+
+15
+
+50
+
+Licenciatura em Matemática - noturno
+
+55
+
+13
+
+2
+
+70
+
+ 	
+15
+
+15
+
+30
+
+100
+
+Subtotal de vagas EP/PPI 
+
+ 	
+102
+
+ 	 	
+57
+
+ 	 
+Total de vagas EP/PPI 
+
+ 	
+159
+
+ 	 
+Totais
+
+280
+
+70
+
+350
+
+Legenda
+EP: vagas destinadas exclusivamente para estudantes de escolas públicas
+PPI: vagas destinadas exclusivamente para estudantes preto, pardos e indígenas
+AC: vagas destinadas para ampla concorrência
+
+ 
+
+Saiba mais
+
+Estude na USP
+FUVEST - Fundação Universitária para o Vestibular
+Manual do Candidato FUVEST 2020
+SiSU - Sistema de Seleção Unificada
+ENEM - Exame Nacional do Ensino Médio
+Acontece no IME: Especial Vestibulandos
+ 
+
+ 
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+PesquisaPesquisa
+Português (BR) English (UK)
+Home  DCC  Ensino  Vestibulando
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Portal do Vestibulando
+ime_dcc_vestibulando_banner	
+Sobre a Ciência da Computação
+As diversas áreas da Computação
+Aplicações da Ciência da Computação
+Por que estudar Ciência da Computação?
+Por que estudar Ciência da Computação no IME-USP?
+Qual o perfil do aluno ingressante?
+Qual o perfil do aluno formado?
+Mais sobre o mercado de trabalho
+Alguns grandes desafios aos novos cientistas da computação
+   
+
+Sobre a Ciência da Computação
+A Ciência da Computação na Era Digital       
+
+"Todas as ciências, ao que parece, estão se tornando ciência da computação". Foi com essa frase que o New York Times traduziu um fenômeno mundial: todos os campos do conhecimento estão se apoiando, cada vez mais, na computação. A consequência disso é uma dependência muito grande da Ciência da Computação, não só no que diz respeito às ciências mas também ao nosso dia-a-dia. As possibilidades abertas pelo atual estágio da computação fazem com que a assim chamada Tecnologia da Informação (TI) se firme presente e necessária em praticamente todos os aspectos da vida moderna, desde os softwares bancários até o Projeto Genoma. É impossível imaginar nossas vidas sem as facilidades e o progresso que essa tecnologia nos trouxe - ainda assim, há uma série de horizontes possíveis a serem explorados, e eles representam desafios aos novos cientistas da computação.
+
+Nos menus laterais você encontrará mais informações que podem ser úteis para sua decisão profissional. Ainda assim, estaremos à disposição para responder suas dúvidas e ouvir suas sugestões por meio do nosso Twitter e do vestibulando@ime.usp.br.       
+A Ciência da Computação emerge como área de ensino e pesquisa na década de 1950, com o desenvolvimento dos primeiros computadores eletrônicos. As novas necessidades da sociedade demandavam soluções impensáveis sem o auxílio da tecnologia computacional – nesse contexto surgem os cientistas da computação, com a missão de propor meios inovadores e criativos para resolver os mais variados problemas. Para isso, esses profissionais trabalham essencialmente com o software, mas essa tarefa não se resume à programação de sistemas; é necessário que se tenha uma perspectiva adequada de situações-problema, que se compreenda quais são as necessidades do cliente para, a partir daí, optar pela melhor solução dentre as possibilidades – isso também é Ciência da Computação.
+
+Com o aperfeiçoamento das próprias tecnologias de que dispõe, a computação adentrou cada vez mais em todas as áreas do conhecimento, tendo adquirido o status de grande propulsora da evolução do homem. Para entender melhor essa área tão essencial, vamos a algumas definições básicas:
+
+O que é Computação?
+
+Computar é manipular dados para obter resultados, de preferência úteis. Milhares de anos antes dos adventos eletrônicos, a computação já era realizada – fosse mentalmente ou mesmo com o auxílio de certos aparelhos tecnológicos (por exemplo, o ábaco). Conforme necessidades mais complexas foram surgindo, a computação foi avançando em suas técnicas, até chegarmos aos sofisticados sistemas que temos hoje.
+
+Por que Ciência? 
+
+A Computação pode ser tratada como ciência ao passo que se baseia nos conhecimentos já adquiridos para buscar constantemente novos conhecimentos – é a teorização de tudo aquilo que já foi observado que vai servir de matéria-prima para o cientista da computação. Há uma grande quantidade de teoria por trás do estudo e da prática da Computação; esta teoria nada mais é que o conhecimento científico oriundo de décadas de pesquisas. É fundamental o papel que a teoria desempenha na atividade profissional, porém não suficiente.
+
+
+As diversas áreas da Computação e seus campos de atuação
+A Computação é um campo amplo que se estende bastante além das fronteiras da Ciência da Computação. A ACM (Association for Computer Machinery) preparou algumas definições que com certeza ajudarão a entender melhor os cursos relacionados a este campo:
+
+Ciência da Computação
+Oferece uma base que permite que o aluno se adapte a novas tecnologias e novas idéias. O trabalho dos cientistas da computação divide-se em três categorias: design e construção de software; desenvolvimento de maneiras eficientes de resolver problemas computacionais; elaboração de jeitos novos e melhores de usar computadores. A seguir estão algumas possibilidades de carreira desenvolvidas a partir das áreas citadas [...]
+
+Engenharia da Computação
+Estuda o design dos sistemas de software e hardware digitais, incluindo sistemas de comunicação, computadores e dispositivos que contém computadores. Para os profissionais desta área, programar é focado nos dispositivos digitais e suas interfaces com usuários e outros dispositivos [...]
+
+Sistemas de Informação
+Diz respeito à informação que sistemas computacionais podem gerenciar para ajudar organizações (companhias, instituições sem fins lucrativos, órgãos governamentais, etc.) a definir e atingir seus objetivos. Também está relacionado com os processos que uma empresa pode implementar e melhorar utilizando a tecnologia da informação (TI). Profissionais de Sistemas de Informação compreendem tanto os fatores técnicos quanto os organizacionais [...]
+
+Ainda sobre essas definições, o Prof. Daltro José Nunes, que já foi vice-presidente da SBC (Sociedade Brasileira de Computação), escreveu um artigo disponível aqui.
+
+ 
+ 
+Aplicações da Ciência da Computação
+São inúmeros os campos em que pode ser aplicada a Ciência da Computação, e grande progresso veio a partir dessas aplicações. Antigamente, por exemplo, os dados de um censo populacional eram processados manualmente – não só o trabalho e a demora eram enormes, mas também a possibilidade de erros. Com a devida aplicação de um software que realiza esse processamento, a credibilidade e a eficiência do censo são muito maiores, sem contar que existem softwares que também tornam mais ágil a própria captação desses dados. As eleições, antes das urnas eletrônicas, eram muito mais passíveis de resultados equivocados e fraudes.          
+
+Em 1960 Marshall MacLuhan, em um palpite utópico para o futuro, escreveu: “Um computador como ferramenta de pesquisa e de comunicação poderia reforçar as possibilidades de busca, tornar obsoletas as bibliotecas convencionais, suprir as funções de enciclopédia e entregar dados personalizados em alta velocidade” – a projeção quase profética de McLuhan já é realidade para nós. Na mesma época em que McLuhan viveu, era quase loucura pensar na possibilidade de interagir e compartilhar informações com o mundo inteiro; hoje, temos redes sociais, como Orkut, Flickr, etc.         
+
+O Aeroporto Internacional de Guarulhos realiza mais de 450 operações diárias de pouso e decolagem, transportando milhares de pessoas – são modernos sistemas de tráfego aéreo, desenvolvidos por cientistas da computação, que tornam tudo isso possível e seguro. Essas operações também dependem dos programas de previsões meteorológicas, que processam as imagens obtidas por satélites.      
+
+Nos campos científico e da saúde, as inovações não foram menos impactantes. Com os softwares atuais, é possível simular o comportamento de ecossistemas, prever a dispersão de epidemias, auxiliar no tratamento de doenças. Muitas pesquisas em diversas áreas do saber só foram viabilizadas pela existência de tecnologias computacionais.        
+
+Na área da economia, são software que mediam desde as operações bancárias do dia-a-dia até as transações financeiras internacionais, as bolsas de valores. Também realizam previsões para o mercado financeiro, entre diversas outras aplicações. As empresas representam um campo muito promissor para o cientista da computação; precisam de uma tecnologia que as auxilie em controle de estoque, balanço de gastos, projeção de perspectivas, analises de mercado, etc. Também existem as empresas de tecnologia, onde a aplicação se dará no desenvolvimento de novidades tecnológicas, produtos 'inteligentes' – sem mencionar ainda o segmento de jogos, que envolve games com complexa jogabilidade, criação de realidades virtuais, inteligência artificial, etc.
+
+Além destas citadas aqui, há várias outras possíveis aplicações da Ciência da Computação; muitas ainda esperando para serem descobertas e todas passíveis de serem melhoradas, aperfeiçoadas e adaptadas.
+ 
+ 
+Por que estudar Ciência da Computação?
+Como já descrito nos tópicos anteriores, a Ciência da Computação tem uma função social e um impacto ímpares na sociedade. Além da oportunidade de desempenhar um papel chave nos maiores avanços de nossa época, o cientista da computação encontra a sua frente um cenário mercadológico muito otimista. São diversas áreas precisando de profissionais capacitados e, no Brasil, uma oferta muito baixa de mão-de-obra – não só em quantidade, mas também em qualidade. Sendo assim, os profissionais mais qualificados - formados nos melhores cursos - têm uma inserção rápida no mercado (veja mais sobre mercado de trabalho) e recebem o reconhecimento merecido. Os salários são bons e o estudante normalmente consegue um emprego antes mesmo de se formar.
+
+ 
+
+Clique aqui e veja a visão de um ex-aluno sobre o curso de Ciência da Computação no IME-USP
+
+ 
+
+ 
+
+Por que estudar Ciência da Computação no IME-USP
+Bacharelado em Ciência da Computação do IME é um dos mais tradicionais do país e encontra sua reputação atrelada ao renome internacional da Universidade de São Paulo. O curso oferece um sólido embasamento nas áreas fundamentais da computação, possibilitando ao aluno a atuação profissional em uma grande variedade de cargos e empresas (veja mais sobre mercado de trabalho). Por meio da empresa júnior (IME Jr), que desenvolve projetos junto a empresas do setor, os alunos têm a oportunidade de vivenciar uma experiência de atuação profissional de maneira ampla e, ao mesmo tempo, experimental – o que agregará conhecimento e será um diferencial no mercado de trabalho. Os alunos ainda podem se envolver atividades de ensino e pesquisa, através de iniciação científica e bolsas de monitoria.   
+
+Prédio do DCC IME USP
+
+ 
+
+A Iniciação Científica permite introduzir os estudantes de graduação na pesquisa científica. É a possibilidade de colocar o aluno desde cedo em contato direto com a atividade científica e engajá-lo na pesquisa. O aluno é então orientado por um professor de seu departamento, que dará apoio teórico e metodológico na realização do projeto de pesquisa. Poderá ser concedida uma bolsa de iniciação científica.
+
+Um dos diferenciais do IME é a importância que dá para o auxílio de alunos-monitores nas disciplinas. Eles ajudam a tirar dúvidas, corrigem exercícios, etc. Os monitores são escolhidos semestralmente entre alunos que já cursaram a disciplina e o trabalho é remunerado (cerca de 1/3 do orçamento do Instituto é destinado a estas bolsas).
+
+ 
+
+
+ge-selo-dcc-2014Está a disposição dos estudantes uma biblioteca que é referência na área e uma completa infraestrutura computacional. O Instituto mantém atualmente uma série de convênios com universidades estrangeiras, possibilitando o intercâmbio de alunos. Os docentes são essencialmente doutores dedicando-se em tempo integral ao trabalho no Instituto, onde são desenvolvidas pesquisas de ponta em diversas áreas da computação.
+
+
+De uma forma geral, podemos dizer que, em seus dois primeiros anos, nosso curso dá ao aluno uma sólida formação básica em Matemática e Computação. No terceiro ano é oferecido o que entendemos como “núcleo” da Computação, que engloba as áreas fundamentais para a formação de um profissional da área. O quarto e último ano do curso é voltado à formação complementardo aluno, com incentivo à construção de um currículo flexível (através das disciplinas optativas) e de uma experiência acadêmico/profissional adquirida com o trabalho de formatura, que é elaborado a partir da experiência do aluno em um estágio supervisionado, ou em uma iniciação científica realizada. Uma preocupação bastante forte em nosso curso é garantir que o aluno seja confrontado com os diversos problemas éticos e sociais da área.      
+
+Durante o curso prevemos ainda a realização de pelo menos duas disciplinas optativas fora da área de Computação. Esperamos com isso que o aluno busque aprimorar sua formação humanística, essencial para o exercício da profissão e da cidadania.
+
+O curso têm uma duração ideal de 4 anos (8 semestres), mas o aluno tem até 8 anos para se formar. Há ainda a possibilidade de continuar a formação acadêmica, já que o Instituto também oferece, desde 1972, os cursos de Mestrado e Doutorado em Ciência da Computação.         
+
+Os alunos e docentes têm recebido seguidos prêmios em seus projetos, dissertações e atuações em competições internacionais.
+
+
+Clique aqui para acessar nossa grade curricular
+Clique aqui para saber mais sobre nossa infraestrutura
+Clique aqui para acessar nossa lista de professores
+
+A seguir, alguns dos livros publicados por docentes do Instituto:         
+
+
+
+CORREA DA SILVA, F.
+S. ; FINGER, Marcelo .  Introdução À computação para administradores. Elsevier, 2009
+
+
+
+TERADA, Routo . Segurança de
+Dados - 2a. ed.
+Blücher, 2008	
+CORREA DA SILVA, F. S.  MELO, Ana Cristina Vieira de . Modelos Clássicos de Computação. Thomson Learning, 2006	
+SILVA, F. C. ; FINGER, M. ; MELO, A. C. V. . Lógica para Computação. Thomson Learning, 2006	
+SETZER, V. W. . Bancos de Dados: O que são, melhore seus conhecimentos, construa os seus. Edgard Blücher, 2005
+
+SETZER, V. W. .
+Meios Eetrônicos e Educação - Uma
+visão alternativa.
+Editora Escrituras,
+2005
+
+
+
+IAZZETTA, F. (Org. )  QUEIROZ, M. (Org. ) .
+I Seminário Música, Ciência e Tecnologia: Acústica Musical.  ECA/USP; IME/USP, 2004
+
+
+
+CORREA DA SILVA,
+F. S. ; AGUSTI, J. . Knowledge Coordination. John
+Wiley and Sons, 2003	
+MELO, Ana Cristina Vi-
+eira de ; CORREA DA SILVA, F. S. Princí-
+pios de Linguagens de Programação. Edgard Blucher, 2003	   
+CESAR JUNIOR, R. M. ; COSTA, L. da F. . Shape Analysis and Classification: Theory and Practice. CRC Press, 2001
+
+MOREIRA, C. G. T. A.  KOHAYAKAWA, Y. . Tópicos em Combinatória Contemporânea. IMPA, 2001
+
+
+
+GABBAY, D. ; FINGER, M. ; REYNOLDS, M. . Temporal Logic. Oxford University Press, 2000	
+TERADA, Routo . Segurança de Dados. Blucher, 2000.	
+SETZER, V. W. ; Nassu, E. A. . Bancos de Dados Orientados a Objetos. Edgard Blücher, 1999	
+KON, F. ; SETZER, V. . Introdução À Rede Internet e Seu Uso. Edgard Blücher, 1995
+
+SETZER, V. W. . Tietokoneet ja Kouluikäiset? Väitteitä ja Perusteluja. Heikki Harjunen, 1993
+
+
+
+SETZER, V. W. . Computer in der Schule? Thesen und Argumente. Verlag Freies Geistesleben, 1992	
+TERADA, Routo . Desenvolvimento de algoritmos e estrutura de dados. McGraw-Hill, 1991	
+SETZER, V. W. . Computers in Education.
+Floris Books, 1989	
+FEOFILOFF, Paulo
+Algaritmos em Linguagem C.
+Campus/Elsevier, 2009
+Clique aqui para acessar a lista completa de livros publicados/organizados por docentes do DCC.
+
+ 
+
+ 
+
+Qual o perfil do aluno ingressante?
+Ao contrário do que se pensa, não é preciso saber programar ou ter grande familiaridade com a matemática. O essencial é que o aluno se interesse pelo assunto e tenha vontade de aprender. É de grande benefício um bom raciocínio lógico-matemático e a capacidade de pensar de maneira abstrata. Também é útil boa comunicação (oral e escrita).
+
+ 
+
+ 
+
+Qual o perfil do aluno formado?
+O curso foi concebido para formar profissionais criativos, éticos e competentes para desempenhar atividades na área de computação e informática. O aluno formado deve, antes de tudo, estar atento às mudanças do mercado e ser um profissional versátil para se adaptar rapidamente às novíssimas tecnologias. Ao concluir a graduação no IME-USP, estará apto a exercer posições de liderança no mercado de trabalho – não só programar, mas também projetar novos sistemas, liderar grupos de analistas e programadores, propor novas tecnologias, etc.
+ 
+ 
+
+Mais informações sobre o mercado de trabalho
+O renome e a tradição do IME abrem várias oportunidades ao egresso: “Se eu bater o olho no currículo de uma pessoa com experiência em gerência de projetos e formação em Ciência da Computação na USP, certamente ela será chamada para entrevista” resume Malena Martelli, diretora de recursos humanos da Unisys em entrevista à Revista INFO.    
+
+No Brasil, o mercado de TI  (Tecnologia da Informação) movimenta aproximadamente U$8 bilhões por ano. O índice de desemprego para bons profissionais beira 0% e a taxa de crescimento do mercado de desenvolvimento de softwares é de 5 a 15% ao ano. Este é o cenário otimista encontrado pelo cientista da computação, e as perspectivas indicam que o mercado continuará aquecido nos próximos anos.
+
+Brasil é terceiro melhor mercado para indústria de TI dos EUA (ComputerWorld Brasil)
+Setor de software no país deve retomar forte crescimento em 2010 (Reuters)
+Procuram-se mulheres de TI (Revista INFO)
+Brasil e Argentina lideram tecnologia da informação na região (Revista EXAME)
+Setor de TI pode crescer 6% na América Latina em 2010, diz IDC (Valor Online)
+
+Algumas empresas que oferecem vagas:
+- Accenture, IBM, UOL, LocaWeb, Microsoft, HP, Google, Amazon          
+- Telefonica, Nokia, DoComo
+- Bancos, Bovespa, BM&F     
+
+O egresso estará capacitado para atuar também em empresas cuja atividade fim não é necessariamente a computação, mas que têm necessidade de sistemas computacionais para atender seus problemas específicos (sistemas para engenharia, ciências naturais, indústria, área do petróleo, etc).
+
+ 
+
+Alguns grandes desafios aos novos cientistas da computação
+- Organizar e administrar o conhecimento humano. Atualmente, produz-se mais conhecimento do que qualquer ser humano seria capaz de administrar. É uma verdadeira "explosão" de dados e informações e poucas pessoas se deram conta da magnitude disso tudo. São postados 50 milhões de tweets por dia (600 por segundo!), milhares de vídeos no YouTube, artigos científicos, imagens de satélites, dados sobre transações financeiras - há a necessidade de desenvolver ferramentas que automaticamente organizem, recuperem, transmitam e guardem essas informações.
+- Facilitar a colaboração e a interação entre as pessoas, empresas e sistemas. Novos software podem ajudar a melhorar a articulação entre essas partes, contribuindo para interações mais eficientes, claras e dinâmicas.
+
+- Colaborar com a área da Saúde, por meio de sistemas que auxiliem nos prognósticos, diagnósticos e tratamentos das doenças, ou mesmo na simulação de epidemias.
+
+- Colaborar com a área da Educação, por meio de sistemas que tornem o aprendizado mais dinâmico, interativo e eficaz, ou mesmo por meio de softwares que possibilitem uma análise mais complexa do sistema educacional.
+ 
+- Expandir as habilidades cognitivas humanas, ou seja, ampliar nossas capacidades intelectuais, desenvolver meios que possibilitem melhor apreensão do mundo pelo homem, que tornem possíveis novas percepções formas mais eficientes de lidar com os dados disponíveis.
+
+- Entender e simular, por meio de software, sistemas complexos, como o comportamento humano, de economias, de civilizações, de ecossistemas.
+
+- Desenvolver artefatos "inteligentes" - celulares inteligentes, casas inteligentes, cômodos inteligentes, carros e estradas inteligentes... mecanismos que melhorem nossa qualidade de vida.
+
+- Desenvolver meios automatizados de reconhecimento e comparação de imagens, de vídeos, de documentos, de dados em geral.
+
+
+Adaptação baseada em lista elaborada pela Iowa State University
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Pesquisa  Publicações
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Publicações
+Livros publicados/organizados ou edições.
+Artigos completos publicados em periódicos.
+Capítulos de livros publicados.
+Trabalhos completos publicados em anais de congressos.
+Resumos expandidos publicados em anais de congressos.
+Resumos publicados em anais de congressos.
+Artigos aceitos para publicação.
+Textos em jornais de notícias/revistas.
+Demais tipos de produção bibliográfica.
+Teses e dissertações do Programa de Pós-Graduação
+Outras informações.
+Figuras para o relatorio CPA
+ 
+
+Obs: Muitas dessas listas acima são geradas automaticamente pelo scriptLattes, sendo sujeitas a pequenas imperfeições. As informações são obtidas a partir dos Currículos CNPq - Lattes dos docentes do DCC.
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Pesquisa  Núcleos de Apoio à Pesquisa
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Núcleos de Apoio à Pesquisa
+O objetivo dos NAPs (Núcleos de Apoio á Pesquisa) é resolver, de maneira interdisciplinar, problemas críticos da sociedade, desenvolvendo a teoria e as aplicações práticas de diferentes áreas do conhecimento concomitantemente.
+
+Para colocar essa ideia em execução foram abertos dois editais: um em 2011 e outro nesse ano. Para cada um dos editais, foram alocados cerca de 73 milhões de reais de recursos da Universidade.
+
+
+Foi criada uma comissão avaliadora para decidir quais propostas de pesquisa seriam aceitas, usando como critérios, por exemplo, a relevância social da pesquisa, o potencial interdisciplinar e o diferencial competitivo que a proposta traria para a USP. Após o processo seletivo, foram criados 43 núcleos em 2011. Em 2012, foram mais 75. Assim, o IME coordena três NAPs, dois deles institucionalizados após o segundo edital.
+
+
+Mesmo após pouco tempo, o Pró-Reitor de Pesquisa já considera os resultados positivos. Já é possível ver concretamente, com a execução de seminários e palestras, pesquisadores de áreas diversas trabalhando juntos. Além disso, para ele, a própria instalação institucional dos NAPs já foi um processo educativo. “Tanto no sentido de produzir conhecimento ao unir pesquisadores de diferentes institutos, como no sentido de resolver problemas administrativos que entravavam a instalação dos núcleos”, diz o professor Zago.
+
+ 
+
+ 
+
+MACLINC
+Desenvolver um profundo entendimento sobre o funcionamento da linguística e da neurociência utilizando, para isso, as ferramentas da probabilidade e da combinatória. Esse é o objetivo do Núcleo de Pesquisa em Modelagem Estocástica e Complexidade que, a partir do resultado do primeiro edital de NAPs, em 2011, ficou conhecido como Núcleo de Apoio à Pesquisa em Modelagem Estocástica e Complexidade – Projeto Matemática, Computação, Linguagem e Cérebro (NUMEC-MaCLinC).
+
+
+Aplicando os conhecimentos da estatística e da ciência da computação, é possível resolver problemas práticos a partir da modelagem estocástica e do uso de grafos. Um exemplo de projeto do NAP na área de linguística é o uso de árvores de contexto para mapear as diferenças de ritmo entre o português do Brasil e de Portugal e para saber como essas diferenças se traduzem nos textos escritos. Na neurociência, uma das aplicações é desenvolver redes de interação entre neurônios de partes específicas do cérebro através da procura de padrões no meio de grandes variáveis.
+
+
+A partir desses problemas práticos ocorrem tanto um desenvolvimento da linguística e da neurociência quanto uma ampliação do conhecimento em estatística e ciência da computação ao se tornar necessária a criação de novos conceitos e modelos matemáticos. Modelos estes que, apesar do foco nas ciências da linguagem e do cérebro, podem ter uma aplicação muito mais abrangente, em qualquer problema prático que consista em achar padrões em variáveis aleatórias.
+
+
+E é nessa aplicação mais abrangente dos modelos matemáticos que reside a interdisciplinaridade deste núcleo de apoio à pesquisa. “Hoje, é muito importante o desenvolvimento da pesquisa interdisciplinar. É indispensável a colaboração com pesquisadores de outras áreas para resolver problemas mais aplicados. Esse intercâmbio é muito importante até para se pensar em novos problemas teóricos, motivados só por essa interação entre conhecimentos”, diz Florencia Leonardi, professora do IME e integrante da equipe do NUMEC-MaCLinC.
+
+ 
+
+ 
+
+NAWEB
+Imagine um ambiente verdadeiramente colaborativo, capaz de utilizar as ferramentas da web e ainda assim se enraizar nas práticas e nas vivências concretas da cidade e da educação, solucionando problemas interdisciplinares.
+
+
+É a isso que se propõe o Núcleo de Apoio à Pesquisa em Ambientes Colaborativos na Web, coordenado pelo professor do IME Marco Aurélio Gerosa e criado neste ano.
+
+
+Antes de ser institucionalizado após o resultado do segundo edital, o NAP já existia informalmente. O NAWEB surgiu informalmente em 2009, após o professor Artur Rozestraten, da Faculdade de Arquitetura e Urbanismo, perceber que o acervo da biblioteca da sua unidade possuía uma grande quantidade de fotos, mas cujo volume dificultava o uso para estudo arquitetônico. Assim, a partir desse problema prático, teve-se a ideia de criar um ambiente colaborativo virtual onde se pudesse construir coletivamente um acervo de fotos de arquitetura, além de acessar as imagens digitalizadas do acervo da FAU.
+
+
+A execução desse projeto, que resultou no site Arquigrafia (www.arquigrafia.org.br), envolveu professores do IME, da FAU e também da Escola de Comunicações e Artes. O site conta com ferramentas de tags e de localização geográfica, e no futuro será possível agrupar imagens e criar grupos e comunidades específicas.
+
+
+Hoje, o NAWEB se tornou um guarda chuva para outros projetos. É o caso do premiado Smart Audio City Guide. Por meio de um aplicativo de celular, é possível armazenar gravações de voz georeferenciadas com dicas funcionais até descrição de ambientes urbanos. Esse ambiente colaborativo em que qualquer um pode gravar suas dicas e acessar as dicas de outros se torna, assim, uma ferramenta para facilitar a mobilidade urbana de deficientes visuais.
+
+ 
+
+
+ESCIENCE
+O NAP coordenado pelo professor Roberto Cesar Marcondes se preocupa com toda a parte de criação, armazenamento e visualização de dados que variam de números até imagens, passando por textos jornalísticos. Isso inclui limpar, minerar, distribuir, compartilhar, guardar e criar redes de interação com esses dados utilizando-se das ferramentas trazidas pela ciência da computação.
+
+
+Diante de um problema prático em qualquer área do conhecimento, pega-se uma pergunta a ser respondida e decide-se quais dados serão necessários e utilizados para respondê-la.
+
+
+A partir disso, há um desenvolvimento teórico da própria ciência da computação, com o desenvolvimento de novos modelos matemáticos e de novos algoritmos. Deste modo, o desenvolvimento prático e teórico ocorre em paralelo e de maneira interdisciplinar.
+
+
+Um exemplo de projeto do NAP é o scriptlattes, um software utilizado institucionalmente pela própria Universidade de São Paulo, pela CAPES e pela FAPESP. O programa é capaz de minerar dados a partir da plataforma Lattes e gerar relatórios que apresentam padrões de colaboração entre áreas do conhecimento, análise de internacionalização de universidades e estatísticas sobre a publicação de artigos acadêmicos.
+
+
+Nas ciências biológicas, o núcleo também desenvolve projetos na área de Bioinformática e de Biologia de Sistemas. Por muito tempo, a biologia trabalhava separadamente com diferentes escalas, como a anatômica, genômica e metabolômica. “Hoje, o desafio da ciência da computação é integrar os dados das diferentes escalas biológicas para resolver problemas práticos”, diz o professor Marcondes.
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Extensão  Empresas de alunos e ex-alunos
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Empresas de alunos e ex-alunos (spin-offs)
+Nome da empresa: Agilbits
+URL:www.agilbits.com.br
+Descrição: Somos uma empresa de consultoria e desenvolvimento de software.
+Trabalhamos com metodologias ágeis e as melhores plataformas disponíveis para o problema apresentado. Nós buscamos resolver os problemas de nossos clientes de acordo com o contexto em que se encontram; por isso, os serviços prestados variam de desenvolvimento de soluções até consultoria para liderança e coaching de equipes, passando por elaboração de cursos específicos.
+Temos mais de 3 anos de experiência com desenvolvimento de aplicações desktop em Java com o uso da plataforma Eclipse RCP. Também são mais de 5 anos trabalhando com Ruby e Java para desenvolvimento de sistemas Web usando vários frameworks (como Rails, Sinatra, VRaptor e Struts).
+Nossos profissionais tem participação ativa nas comunidades de software livre, métodos ágeis e já ministraram diversos cursos, palestras e laboratórios para passar seus conhecimentos adiante.
+
+
+Nome da empresa: basico.com
+URL:www.basico.com
+Data de abertura para o público: 1º de julho de 2013
+Descrição: Procurado pelo empreendedor Alexandre Veiga, o ex-aluno Tiago Motta se juntou a essa startup com o objetivo de criar o melhor ecommerce do Brasil. Por ter trabalhado com internet desde que se formou, como por exemplo no UOL e na Abril, passando por vários produtos com grande quantidade de acessos e relacionados a ecommerce, como por exemplo o ShoppingUOL, TodaOferta e PagSeguro, percebeu que ja possuía conhecimento o suficiente para construir um grande projeto como esse: nasce o basico.com!
+O basico.com é uma marca e um ecommerce de roupas básicas feitas com qualidade premium. Seus produtos são feitos com o melhor algodão do mundo: o Pima. O time todo é paranóico com qualidade: da experiência de compra no site, até a embalagem que leva os produtos para os clientes, tudo deve ser perfeito. Seu software possui 99% de cobertura de testes automatizados e é baseado nas tecnologias mais modernas do mercado: spreecommerce, ruby on rails e heroku.
+Alguns clientes já apelidaram o basico.com de "a Apple das roupas".
+
+
+Nome: Caelum - Ensino e Inovação
+URL: www.caelum.com.br
+Data de criação: 2004, durante o mestrado de Paulo Silveira em computação e a graduação de seu irmão Guilherme Silveira em Matemática Pura.
+Descrição: A Caelum nasceu em 2004, depois que um dos irmãos voltou da Alemanha.  Hoje ela está em três capitais, contando com mais de 85 colaboradores. Open source, treinamentos, desenvolvimento e métodos ágeis fazem parte do dia a dia da empresa. O IME, os professores e o ambiente universitário tiveram um papel fundamental para esse nascimento. Durante os anos na graduação seus criadores participaram de diversos projetos com inúmeros professores; do gerenciador de disciplinas, do catálogo de currículos de alunos e da administração dos eventos do Departamente de Estatística surgiram diversos projetos open source, sendo que hoje alguns deles  tem espaço no Centro de Competência de Software Livre (CCSL). Certamente a pró atividade também teve muita importância nessa trajetória empreendedora.
+Principais clientes ja atendidos: Porto Seguro, Petrobras, Locaweb, Globo.com, TVA
+Principais tecnologias: Java, Ruby on Rails, Scrum, Kanban, Lean e Android
+
+
+Nome: Devworks Game Technology
+URL: www.devworks.com.br / www.gametrack.com.br
+Data de criação: 2001, por Archias Alves Almeida e Fabiano de Carvalho e Sousa, mestrandos do IME
+Descrição: A Devworks foi pioneira no desenvolvimento de advergames no Brasil e atuou em diversas áreas, como jogos para celular, consoles e internet, antes de se concentrar na criação e desenvolvimento do site de jogos multiplayer Gametrack (www.gametrack.com.br), no qual tem atuado exclusivamente desde 2008.
+
+
+Nome da Empresa: EvoBooks
+URL:www.evobooks.com.br
+E-mail de contato:contato@evobooks.com.br
+Descrição: A EvoBooks é uma editora digital de conteúdo educacional criada para auxiliar instituições de ensino, professores e alunos a aproveitarem ao máximo as tecnologias disponíveis. Formada por profissionais com grande experiência no setor de educação, programação visual e design, a EvoBooks traz uma coleção de aulas digitais interativas de alta qualidade que permitem não só valorizar o professor em sala de aula, mas também transformar a experiência de aprendizado do aluno antes, durante e depois das aulas.
+Foi fundada em 2011 por dois 2 ex-consultores da gestão na área educacional da Bain&Company, uma das maiores e mais prestigiadas consultorias de gestão do mundo, e um 1 doutorando em Ciência da Computação pelo IME-USP, especialista em computação gráfica e sistemas 3D.
+Diferenciais:
+- Tecnologia proprietária e layout customizável para clientes.
+- Desenvolvida para ótima interação com conteúdo enriquecido.
+- Customização para instituições.
+- Compatível à PCs e plataformas Android & iOS
+- Conteúdo 3D interativo exclusivo adaptado ao Ensino Básico
+- Interação com objetos, anotações na tela e comunicação objetiva voltada para aprendizagem dos conceitos
+Os sócios diretores da EvoBooks são Felipe Rezende, Carlos Grieco, Gustavo Rahmilevitz e Guilherme Otranto (doutorando em Ciência da Computação pelo IME-USP). Guilherme é CTO da EvoBooks e envolvido nas inovações tecnológicas que permeiam o desenvolvimento do produto.
+O objetivo da empresa é atingir a liderança do mercado editorial brasileiro.
+
+
+Nome: Grupo Direct
+URL:www.directtalk.com.br
+Descrição: A Direct Talk nasceu para ajudar as empresas e clientes a se relacionarem melhor. Fazemos isso desenvolvendo software usado nas centrais de atendimento. Começamos com um primeiro produto: o chat on-line. E depois fomos aumentando a abrangência – gerenciamento de e-mails, telefonia, gerenciamento dos processos, auto-atendimento, atendimento via vídeo...
+A empresa nasceu de 4 pessoas, sendo 3 colegas do curso de ciências da computação do IME. Iniciamos uma outra empresa em 1996 (durante o segundo ano de curso), que em 2000 deu origem à Direct Talk.
+Hoje temos mais de 200 clientes (veja mais no nosso site). E a cada mês são feitos mais de 5 milhões de atendimentos usando os nossos sistemas.
+Neste caminho fomos reconhecidos por alguns prêmios: duas vezes entre as melhores empresas para se trabalhar em TI e Telecom (Great Place to Work – 2008 / 2009), Melhor solução de atendimento na avaliação dos clientes (Consumidor Moderno - 2009), ficamos entre as 200 maiores empresas de TI e entre as 10 com maior crescimento (Informática Hoje -2008).
+E o que era uma empresa se transformou em um grupo – iniciamos outras empresas com novos empreendedores usando a estrutura, a marca e a carteira de clientes que já tínhamos. Fundamos a Direct Marketing em 2005 (marketing de Relacionamento), Direct Performance em 2007 (campanhas e BI digital), Direct Labs e Scup em 2009 (ambas focada em mídias sociais), Direct B2 e 2009 (infra-estrutura e CRM).
+ 
+
+Nome da Empresa: Heavenstudio
+URL da empresa: heavenstudio.com.br
+Data de Criação: 2010
+E-mail de contato: contato@heavenstudio.com.br
+Descrição: A Heavenstudio é uma empresa de consultoria e desenvolvimento ágil que visa transformar idéia inovadoras em produtos digitais. Apesar de ter sido fundada há pouco tempo, conta com diversos programadores experientes e dezenas de clientes que variam de pequenas startups à grandes corporações como a Fundação Telefônica. Seus membros também estão fortemente vinculados com o movimento ágil e principalmente com Lean Startup, e utilizam este know how para auxiliar na gestão e organização dos projetos, de forma a serem executados de forma a minizar os custos em ambientes de extrema incerteza.
+Principais tecnologias: Ruby on Rails, Meteor/Node.JS CSS3/HTML5, 
+JQuery, Postgresql/MongoDB, iOS/Android, XP Programming
+
+
+Nome: Infomobile
+URL: www.infomobile.com.br
+Descrição: A Infomobile é uma spin-off da Universidade de São Paulo (USP), fundada em 2006 e integrante do Centro de Inovação, Empreendedorismo e Tecnologia (Cietec) da USP. O foco da empresa é a inovação, mobilidade, recuperação de informações e multimídia.
+Possui um forte braço de P&D que desenvolve projetos em conjunto com grupos de pesquisa de universidades como a USP e a UNIFESP. Alguns desses projetos de inovação recebem financiamento de órgãos de fomento como FINEP (CT-SAÚDE) e FAPESP (PIPE).
+Atualmente, o principal produto da empresa é o OnAir. Desenvolvido em uma tese de mestrado do IME-USP, o OnAir é um software que utiliza técnicas de inteligencia artificial para buscar e recuperar arquivos multimídia (vídeos e áudios) falados em grandes acervos.
+Os principais diferenciais do software são: maior produtividade, pois não há a necessidade de percorrer o vídeo ou áudio na íntegra; eficácia das buscas, pois a busca é feita no conteúdo falado e não somente em palavras-chave ou resumos; e facilidade de acesso às informações multimídia.
+Os sócios diretores da Infomobile são Vladimir Moreira Rocha e Eduardo Leal Guerra, mestres em Ciência da Computação pelo IME-USP. Vladimir é CEO da Infomobile envolvido na concepção e inserção de produtos inovadores no mercado e Eduardo é CTO da Infomobile envolvido no desenvolvimento do produto. Juntos lideram a empresa desde sua concepção.
+
+
+Nome: Iteas Soluções Digitais Ltda
+URL:https://profes.com.br/
+Data de criação: Mar/2012
+Fundadores: Claudivan Ribeiro, Alberto Bueno Jr, Tiago Nicolosi Bomventi, José David Curado (IME/USP)
+Descrição: A Iteas é uma empresa que nasceu da união de 4 estudantes do IME-USP em torno do desenvolvimento de uma plataforma educacional chamada Profes. Lançada em março de 2012, em menos de 6 meses, nossa base de professores cadastrados se tornou a maior do Brasil e com isso nos tornamos referência em busca de professores particulares. Em abril de 2013 a empresa foi incubada no Cietec.
+Nosso objetivo é expandir a plataforma para alguns países vizinhos (Argentina, Chile, Colômbia, México, Venezuela) e criar soluções e aplicações que colaborem na interação entre professores e alunos através da internet.
+
+
+Nome da empresa: K19 Treinamentos
+URL: www.k19.com.br
+Data de Criação: Fundada em agosto de 2010.
+Descrição: A K19 foi criada por profissionais formados em Ciência da Computação pela Universidade de São Paulo (USP) que possuem ampla experiência em treinamentos e consultoria na área de TI.
+O objetivo principal da K19 é oferecer treinamentos relacionados às plataformas Java e .NET com alta qualidade e preços acessíveis. Esses treinamentos preparam os nossos alunos para o mercado de trabalho que cada vez mais exige profissionais de TI altamente qualificados.
+Em pouco tempo de vida, a K19 tornou-se referência no ensino de Java e .NET. Nosso material didático é amplamente utilizado e reconhecido pela comunidade e por instituições de ensino superior públicas e privadas.
+Principais clientes ja atendidos: Banco do Brasil, USP, TCE-RR, TRE-RN, ALESP, SENAC-RR, Claro, LSI-TEC e Itaú
+Principais tecnologias: Java, .NET e Android.
+
+Nome: Kekanto
+URL:www.kekanto.com.br
+Data de criação: (fundado em mar/2010)
+Fundadores: Allan Kajimoto (BCC 2004) / Bruno Yoshimura (BCC 2004) / Fernando Okumura (Direto USP/ Economia Wharton / MBA Stanford)
+Descrição: O Kekanto é um guia local onde você encontra os melhores estabelecimentos ao seu redor, na sua cidade ou seu bairro. O site foi criado em março de 2009 pelo Bruno Yoshimura (BCC 2004),  Allan Kajimoto (BBC 2004) e Fernando Okumura (Direto USP/ Economia Wharton / MBA Stanford) e hoje conta com mais 6 desenvolvedores do IME.
+Acreditamos muito na publicidade geolocalizada como uma evolução dos links patrocinados de hoje, sendo este o modelo de negócio atual. 
+
+Atualmente já estamos presentes em 5 países (Brasil, Argentina, Chile, Colombia, Peru e México) e mais de 200 cidades. Hoje o Kekanto já conta com mais de 1,5 milhão de cadastrados, 8 milhões de visitantes únicos por mês e quase 2 milhões de downloads do app.
+
+Entre as principais tecnologias que podemos destacar estão:
+
+- Busca geolocalizada (baseada em polígonos).
+- App em todas as plaformas mobile
+- Escalabilidade: servidores no cloud da Amazon, cache em todos os níveis do MVC,
+- Sistema de recomendações (de lugares para o consumidor conhecer e escrever).
+
+ 
+Nome: Liberalis
+URL: http://liberalis.biz
+Data de criação:  julho/2012
+Fundadores: Paulo Salem (doutor em Ciência da Computação  pelo IME-USP e pela Universidade Paris-Sud)
+Descrição: A plataforma Liberalis permite a profissionais liberais e autônomos (e.g., advogados, médicos, psicólogos, nutricionistas, arquitetos) criarem um site profissional na Internet de modo rápido, fácil e inteligente. Projetada especialmente para esse nicho, carente de boas soluções específicas, ela fornece ferramentas que facilitam e automatizam a divulgação online desses profissionais: pode-se listar serviços, contatos, portfolio, currículo e mais online -- sem a necessidade de se "desenhar" as páginas, pois o sistema adapta o design do site resultante de modo a se adequar à quantidade e tipo de informação fornecida. Pela separação do conteúdo da apresentação, algo pouco feito por nossos concorrentes, somos capazes de otimizar os resultados (e.g., renderizações diferentes para versões móveis), conectá-los facilmente a outros sistemas e garantir um aproveitamento máximo ao longo do tempo dos dados fornecidos. 
+Paulo Salem, doutor em Ciência da Computação pelo IME-USP e pela Universidade Paris-Sud (França), criou o sistema pouco após a defesa de sua tese como uma forma inicial de se lançar no empreendedorismo por completo. Além da face pública do produto, o Liberalis também serve como um laboratório para outras tecnologias mais fundamentais, que eventualmente podem ser, elas mesmas, transformadas em produtos independentes. Por exemplo, parte do nosso sistema de pagamento está em via de ser formalmente verificado, e temos desenvolvido e testado uma série de algorítimos de otimização comportamental (de usuários) e design automatizado (de páginas). Esses aspectos mais sofisticados estão profundamente relacionados, embora de modo indireto, à experiência acadêmica proporcionada pelo IME-USP.
+
+
+Nome: Neurobox
+URL:www.neurobox.com.br
+Descrição: A Neurobox foi criada após vários anos de experiência com desenvolvimento ágil de software, especialmente com Programação Extrema (XP) e Scrum. A Neurobox oferece consultorias, treinamentos e mentoring focados em metodologias ágeis para equipes e empresas interessadas em melhorar seus resultados em desenvolvimento de software.
+O que a Neurobox faz?
+Ela apóia equipes a obter resultados excelentes em desenvolvimento de software. Ministramos palestras (gratuitas) e treinamentos, promovemos eventos e oferecemos suporte através de mentoring para a adoção de métodos ágeis de desenvolvimento de software, tais como Scrum, Programação Extrema(XP), Lean, entre outros.
+ 
+Nome: Playax
+URL: www.playax.com
+
+Data de criação: Janeiro de 2014, durante o doutorado de Daniel Cukier, bacharel e mestre em Ciência da Computação pelo IME-USP.
+Descrição: A Playax desenvolve uma plataforma de inteligência musical que oferece recursos e ferramentas para o acompanhamento da circulação e uso de músicas em diferentes meios (rádios, canais de TV, shows, sites, redes sociais, etc.) e o tratamento, análise e ativação dessas informações para alimentar um marketplace de serviços, licenciamentos, divulgação, etc., para o ecossistema da música.
+Principais clientes ja atendidos: Leoni, Fernanda Abreu
+Principais tecnologias: Scala, Ruby on Rails, BigData, Audio Fingerprint, Métodos Ágeis, Lean Startup
+Contato para vagas: daniel@playax.com
+
+ 
+
+Nome: Scipopulis
+
+URL: www.scipopulis.com
+
+Descrição: A Scipopulis é uma startup direcionada para cidades inteligentes e focada em soluções inovadoras para mobilidade urbana. Temos produtos para cidadãos e gestores do transporte nas áreas de monitoramento, planejamento, análise de dados, relacionamento com o cliente, compartilhamento de dados e mobilidade ativa. O principal produto da empresa é um painel de monitoramento de velocidades de ônibus que identifica gargalos, cria alertas, emite relatórios comparativos de velocidade, visualiza e associa acidentes e imagens de câmeras. Com nossa solução, o gestor do sistema de mobilidade aumenta a eficiência dos times de operação, melhora o planejamento e otimiza a gestão, respondendo as ocorrências de forma rápida, planejando e prototipando soluções baseadas em dados e promovendo melhores serviços para os cidadãos.
+
+Três dos sócios são cientistas da computação formados pelo IME-USP e PhDs na mesma área, com habilidades complementares em big data, desenvolvimento mobile e visualização. O quarto sócio é PhD em Urbanismo e traz habilidades complementares de design thinking e projeto. O restante do time é formado por especialistas em user experience, design e desenvolvimento de software. Criada em 2014.
+
+Fundadores: Roberto Speicys (IME-USP), Julian Monteiro (IME-USP), Ivo Pons (Mackenzie), Marcio Cabral (IME-USP).
+
+Contato: fale@scipopulis.com
+  
+
+Nome: The Story Boom
+
+URL: thestoryboom.com
+Descrição:The Story Boomé uma plataforma para se contar histórias colaborativamente. As pessoas postam suas idéias para novas histórias, então a comunidade vota nas melhores e pegamos a vencedora e produzimos em forma de comic books, ou histórias em quadinhos.
+ O objetivo da plataforma é permitir que pessoas que sempre sonharam em contar suas histórias sejam capazes de transformar suas idéias em realidade e que os leitores também possam encontrar uma forma de entretenimento rica com histórias inovadoras e criativas, ao mesmo tempo que lhes damos a possibilidade de participar no processo de decisão e produção dos quadrinhos.
+ 
+ 
+Nome: Uaná Technologia em Visão e Linguagem
+URL: www.uanatech.com
+Descricao: A Uaná desenvolve produtos e serviços que se baseiam na combinação de tecnologias de visão, processamento de linguagem natural e aprendizado de máquina.
+Sua missão é promover e desenvolver tecnologia de ponta nessas áreas para capacitar seus clientes a se tornarem líderes de seus negócios.
+A empresa foi fundada recentemente por três sócios que fizeram mestrado e/ou doutorado na USP. Os três também adquiriram experiência trabalhando em grandes multinacionais e em instituicoes de pesquisa na Europa.
+
+
+Nome: Whitehat Software
+URL: www.whitehat.com.br
+A Whitehat, fundada em 2001, é uma empresa de desenvolvimento de software com larga experiência em aplicações web e sistemas de back-office, já tendo criado sistemas de e-commerce, publicadores de conteúdo, relacionamento online, web analytics, web survey, além do primeiro sistema para registro automático de domínios do Brasil.
+Formada por vários ex-alunos do IME-USP, tem em seu portfólio clientes como IBOPE, O Estado de S. Paulo, Siter, Nomer, Laboratório de Sistemas Integrados POLI-USP, Cristiana Arcangeli, Eliana, Sociedade Brasileira de Psicanálise, Imperdível, entre outros.
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Extensão  CCSL
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+Centro de Competência em Software Livre (CCSL)
+
+O Centro de Competência em Software Livre* (CCSL) do Instituto de Matemática e Estatística (IME) da Universidade de São Paulo é um órgão subordinado à Diretoria do Instituto, cujos objetivos fundamentais são:
+realizar pesquisa científica e tecnológica relacionada a software livre;
+desenvolver software livre inovador;
+disseminar conhecimento sobre software livre.
+
+
+* Software livre se refere à existência simultânea de quatro características:
+
+1 - a liberdade de executar o programa, para qualquer propósito;
+
+2 - a liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades;
+
+3 - a liberdade de redistribuir cópias;
+
+4 - a liberdade de aperfeiçoar o programa e liberar os seus aperfeiçoamentos.
+
+
+Para saber mais sobre a organização, veja o Regimento do CCSL.
+Para acompanhar as atividades, acesse a Página do CCSL.
+ 
+ 
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
+ brasao usp corV4.0
+
+Instituto
+Departamentos
+Ensino
+Pesquisa
+Cultura e Extensão
+Internacional
+Biblioteca
+Contatos
+Pesquisar...
+Pesquisa
+Português (BR) English (UK)
+Home  DCC  Mídia e Eventos  DCC na mídia
+DCC
+Sobre o DCC
+Histórico
+Prêmios
+Docentes visitantes
+Ensino
+Graduação
+Pós-Graduação
+Vestibulando
+Pesquisa
+Publicações
+Núcleos de Apoio à Pesquisa
+Extensão
+Empresas de alunos e ex-alunos
+CCSL
+Mídia e Eventos
+DCC na mídia
+Notícias
+Eventos
+Organização
+Docentes
+Docentes por Área de Pesquisa
+Administração
+Conselho do Departamento
+Ramais
+DCC na Mídia
+Presença do Departamento de Ciência da Computação da USP na mídia
+Data	Veículo	Título da Matéria
+06.dez.2019	Jornal da USP	Equipes da USP vão representar o Brasil em campeonato mundial de programação
+04.dez.2019	Jornal da USP	Ferramentas de inteligência artificial aumentarão eficiência na área jurídica
+28.nov.2019	Jornal da USP	Sistema de pesquisadores da USP mostra que há menos acidentes onde tem radar
+26.nov.2019	UOL	Por que o SUS de SP quer saber a distância entre pacientes e hospitais?
+25.nov.2019	Ag. FAPESP	Avanço em aprendizado de máquina possibilita novas tecnologias baseadas na análise de imagens
+28.out.2019	Band News	Inteligência Artificial
+05.set.2019	Jornal da USP	Alunos usam soluções em tecnologia para melhorar gestão universitária
+29.ago.2019	Jornal da USP	Progresso tecnológico demanda avanço na segurança da informação
+09.ago.2019	SEGS	Professor da USP ministra palestra sobre os impactos da tecnologia na infância e na adolescência
+08.ago.2019	Jornal da USP	Estresse da vida universitária requer estratégias para ser combatido
+02.ago.2019	Rede Globo TV	Anda SP mostra tendências para a mobilidade
+29.jul.2019	Jornal da USP	USP sedia evento internacional sobre Data Science
+26.jul.2019	Jornal da USP	Momento Cidade #06: O que falta para São Paulo virar uma cidade inteligente?
+01.jul.2019	Revista Pesquisa FAPESP	Entrevista: Fabio Kon
+13.jun.2019	Jornal da USP	Você sabe o que é um hackathon?
+03.jun.2019	Mobile time	Brasil precisa debater ética e direitos humanos em IA
+03.jun.2019	Jornal da USP	Plataforma utiliza inteligência artificial para receber denúncias de violência doméstica
+10.mai.2019	Jornal da USP	Matemática da USP coordenará escola para aplicações em Ciência de Dados
+25.abr.2019	Ag. FAPESP	Big data pode gerar benefícios políticos, sociais e econômicos
+24.abr.2019	UOL	Como a av. Paulista ficará com carros autônomos? Mais livre, revela projeto
+21.abr.2019	Jornal Estadão	'Robôs não têm um detector de coerência', diz pesquisador
+10.abr.2019	Ag. FAPESP	Exposição de obras sonoras explora interface entre arte e ciência
+30.jan.2019	Direto da Ciência	Google lança nova ferramenta de busca para dados científicos
+18.jan.2019	Jornal da USP	Como evitar a bolha dos algoritmos na internet?
+05.dez.2018	Ag. FAPESP	Pesquisadores recebem prêmio do Google
+27.jul.2018	Ag. FAPESP	Yoshiharu Kohayakawa, professor no IME-USP, ganha prêmio internacional em matemática
+13.jul.2018	Jornal da USP	Grupo da USP desenvolve games que podem ser estudados e modificados
+26.jun.2018	SP no Ar	Calçadas desafiam cadeirantes em São Paulo
+24.jun.2018	Folha de São Paulo	Mapa demonstra que centro tem distritos mais acessíveis de SP
+11.jun.2018	Globo	Estudantes da USP fazem "maratona" de programação na hackaton
+05.jun.2018	Ag. Universitária de Notícias	Software possibilita coleta e análise de imagens urbanas
+08.dez.2015	Exame.com	Conheça a rede social que está conquistando empreendedores
+01.set.2015	PlanetaUniversitario.com	São Paulo é a melhor cidade para Startups na América Latina
+03.ago.2015	G1	Ex-alunos do IME ganham copa do mundo da Computação
+03.ago.2015	Connected Smart Cities	A startup Scipopulis do Roberto Speicys e Julian Monteiro (BCCs e mestres pelo IME) ganhou o primeiro prêmio no concurso Connected Smart Cities
+15.jul.2015	Revista Pesquisa FAPESP	USP sedia programa de aceleração de empresas startups
+17.mai.2012	Revista Pesquisa FAPESP	Projeto Arquigrafia Brasil propõe fortalecer a cultura visual de arquitetura e espaços urbanos
+24.abr.2012	Ag. FAPESP	Músicos da USP realizam concertos com musicistas do exterior via internet em tempo real
+12.abr.2012	UOL	USP lança plataforma colaborativa sobre arquitetura brasileira
+08.abr.2011	Visão Oeste	Vice-presidente do Google diz que “brasileiros são bem qualificados”
+mar.2011	Ag. FAPESP	Prontuário no Celular
+18.nov.2010	Jornal da USP	Brincadeira de Cientistas
+11.nov.2010	USP Online	Grupo formado por alunos do IME, da Poli e da FAU já teve seu primeiro jogo lançado
+19.out.2010	 UOL	"Horus Eye" é 1º título do USPGameDev, grupo de alunos da USP dedicado a jogos eletrônicos
+30.set.2009	Pré-Univesp	Problemas matemáticos estimulam a criatividade dos alunos
+29.set.2010	USP Online	Pesquisador do IME estuda como problemas matemáticos estimulam a criatividade dos alunos
+27.set.2010	USP Online	IME realiza palestras sobre tecnologia da informação em parceria com UOL
+19.ago.2010	USP Online	Programa leva professores da Universidade às escolas públicas
+07.jun.2010	USP Online	Evento no IME apresenta caminhos e vantagens do reúso de software
+20.mai.2010	Portal SESC-SP	Quase Humanos (Entrevista com Prof. Marcelo Finger)
+06.abr.2010	Ag. FAPESP	
+Computação móvel auxilia serviços de saúde
+
+01.abr.2010	Ag. USP	
+Sistema usa software livre para analisar imagens médicas
+Mais sobre o assunto
+
+06.nov.2009	Jornal Primeira Mão	
+Jogo da fazenda vira a febre da internet
+
+13.ago.2009	Planeta Universitário	Laboratório do IME desenvolve algoritmos para proteção de dados
+02.jul.2009	Revista Espaço Aberto	IME e Microsoft afirmam parceria para desenvolver o compartilhamento de informações entre softwares
+22.jun.2009	Ag. Univ. de Notícias	Grupo do IME cria novas ferramentas de colaboração na Web
+17.jun.2009	IDG Now!	HTML 5: conheça a linguagem que vai revolucionar sua navegação na web
+07.mar.2009	Revista Espaço Aberto	A força da criação colaborativa
+07.mar.2009	Revista Espaço Aberto	Iniciativas em software livre
+08.jan.2009	Ag. USP	Centro de Competência em Software Livre do IME participa do Projeto QualiPSo
+01.dez.2008	Caderno de Pesquisa FAPESP	Conhecimento e inclusão
+09.mai.2008	Ag. USP	Centro de Software Livre amplia cursos e atuação internacional
+17.abr.2008	Ag. Univ. de Notícias	Projeto Borboleta quer melhorar a saúde pública
+11.jan.2008	Computer World	Software acompanha mutação do vírus HIV e atualiza coquetel
+05.nov.2007	Jornal do Brasil	Busca seletiva de arquivo de vídeo
+16.out.2007	Mundo Redord News	Atenção primária à Saúde - Projeto Borboleta
+24.ago.2007	USP Online	USP recebe, pela primeira vez, o Simpósio Brasileiro de Computação Musical
+28.ago.2006	Jornal Estadão	Brasileiro é premiado com artigo sobre tecnologia sem fio
+ago.2007	Caderno de Pesquisa FAPESP	Resposta Impulsiva
+27.jul.2006	Jornal Estadão	Computação brasileira é premiada em concurso
+abril.2004	Revista Espaço Aberto	O Desbravador da Computação Brasileira
+17.mar.2002	Folha de São Paulo	Virtualmente Real
+19.nov.2001	Folha de São Paulo	Brasil vai às finais de concurso mundial de programação
+10.set.2001	Ag. USP	IME ganha prêmios da SBC com reconhecimento digital de pessoas
+07.fev.2001	Folha de São Paulo	Aparelho permite clicar com os olhos
+04.mai.1994	Folha de São Paulo	Mostra tem arte feita com soft gráfico
+
+
+
+CONTATO
+Telefones
+Imprensa
+Ouvidoria
+Webmaster 
+
+ACESSO RÁPIDO
+Concursos
+
+Transparência
+
+USP Digital
+
+
+
+
+
+ 
+
+SERVIÇOS
+Sistemas IME
+Webmail 
+
+fb icontwitter-icon iconeacontece icone camera
+
+Instituto de Matemática e Estatística da Universidade de São Paulo
+Rua do Matão, 1010 - CEP 05508-090 - São Paulo - SP
+ 
+
+maps-icon Como chegar
+ 
