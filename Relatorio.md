@@ -26,9 +26,9 @@ Inicialmente, vamos utilizar o clássico de Camões com $k=0$ para verificarmos 
 **Grau médio:** 2.35687
 **Densidade:** 1.17844
 
-**Observações sobre os dados:** rapidamente que mais de um terço dos vértices se localizam todos numa mesma componente conexa. Esse número provavelmente não é ainda maior porque o português possui muitas palavras com acentos, hífen e outros caracteres que são removidos no pré-procesamento. Assim, acabamos criando algumas palavras que ficarão isoladas no grafo como *fazei-vos*, que se torna *fazeivos* e não se parece com nada. 
+**Observações sobre os dados:** rapidamente vemos que mais de um terço dos vértices se localizam todos numa mesma componente conexa. Esse número provavelmente não é ainda maior porque o português possui muitas palavras com acentos, hífen e outros caracteres que são removidos no pré-procesamento. Assim, acabamos criando algumas palavras que ficarão isoladas no grafo como *fazei-vos*, que se torna *fazeivos* e não se parece com nada. 
 
-Nossa conclusão é que o português possui palavra muito parecidas e que derivam umas das outras. Entretanto, vemos que o grafo não é muito denso, o número de arestas é pouca coisa a mais que o número de vértices. Isso significa que, por mais que tenhamos aquela enorme componente incluindo a maioria das palavras, as palavras não possuem tantos vizinhos no grafo, como confirma também o grau médio de aproximadamente 2.
+Nossa observação inicial é que o português possui palavra muito parecidas e que derivam umas das outras. Entretanto, vemos que o grafo não é muito denso, o número de arestas é pouca coisa a mais que o número de vértices. Isso significa que, por mais que tenhamos aquela enorme componente incluindo a maioria das palavras, as palavras não possuem tantos vizinhos no grafo, como confirma também o grau médio de aproximadamente 2.
 
 Vamos agora aumentar o $k$ e ver que como esses dados vão mudando.
 
@@ -286,6 +286,95 @@ Aumentemos ainda mais o $k$.
 
 Dessa forma, vemos, como imaginado, por se tratar de um manual de um sistema operacional, que existem muitas palavras muito grandes como sites, que não vão se conectar com qualquer outra palavra.
 
-## Autor
+## Othello
+
+Vamos, por fim, utilizar uma obra de Shakespeare para podermos comparar com a obra de Camões e termos uma comparação adequada entre dois textos grandes e com uma estrutura poética.
+
+Novamente, como temos um texto em inglês, não temos tantos problemas como no português, que criamos várias palavras que não existem de verdade.
+
+### $k=0$
+
+**Número de vértices:** 3931
+**Número de arestas:** 3370
+**Número de componentes:** 2116
+**Tamanho da menor componente:** 2
+**Tamanho da maior componente:** 1304 
+**Tamanho médio das componentes:** 2.85775
+**Grau médio:** 1.71458
+**Densidade:** 0.857288
+
+**Observações sobre os dados:** Mais uma vez, temos um grafo com menos arestas do que vértices. O único que conseguiu ter uma densidade maior que 1 foi o primeiro, os Lusiadas. E isso mesmo com os problemas de que estávamos inserindo palavras não existentes no Português. Disso, já conseguimos tirar a conclusão de que o Português é muito mais conexo do que o Inglês. E realmente, estudando essas duas linguas, vemos que Português possui muito mais palavras, pois uma palavra de uma mesma raiz pode variar em gênero, número, grau, tempo, modo etc. As conjugações verbais já nos são a maior evidência disso. 
+
+Além disso, o grau médio é muito menor do que o texto dos Lusiadas, sendo pouca coisa a mais do que o site do DCC. O que é mais uma evidência dessa hipótese.
+
+Entretanto, notamos uma diferença entre os dois textos em verso (Othello e Lusiadas) para os textos mais técnicos e informativos: a maior componente nos dois primeiros possui cerca de um terço dos vértices totais, enquanto, nos dois últimos, vemos que esse valor fica em torno de menos de um quarto no manual do Ubuntu e aproximadamente um oitavo no caso do site do DCC. Ou seja, podemos concluir também que quando o texto é mais poético, também temos uma conectividade maior entre as palavras (provavelmente porque os dois autores procuram variar bastante e usar um vocabulário mais extenso e rebuscado).
+
+Feitas essas conclusões, vamos começar a aumentar o valor de $k$:
+
+### $k=3$
+
+**Número de vértices:** 3886
+**Número de arestas:** 3079
+**Número de componentes:** 2119
+**Tamanho da menor componente:** 2
+**Tamanho da maior componente:** 1256 
+**Tamanho médio das componentes:** 2.83388
+**Grau médio:** 1.58466
+**Densidade:** 0.792331
+
+**Observações sobre os dados:** Novamente, começamos a ver que o número de vértices cai muito pouco, mas a quantidade de arestas já começa a cair bastante.
+
+### $k=4$
+
+**Número de vértices:** 3703
+**Número de arestas:** 2383
+**Número de componentes:** 2144
+**Tamanho da menor componente:** 2
+**Tamanho da maior componente:** 1010 
+**Tamanho médio das componentes:** 2.72715
+**Grau médio:** 1.28706
+**Densidade:** 0.643532
+
+**Observações sobre os dados:** O mesmo resultado. Vemos que é bastante incrível, apenas cerca de 200 vértices saíram do grafo, mas quase 700 arestas acabaram saindo. A densidade já caiu muito.
+
+### $k=5$
+
+**Número de vértices:** 3136
+**Número de arestas:** 1067
+**Número de componentes:** 2240
+**Tamanho da menor componente:** 2
+**Tamanho da maior componente:** 129 
+**Tamanho médio das componentes:** 2.4
+**Grau médio:** 0.680485
+**Densidade:** 0.340242
+
+**Observações sobre os dados:** Agora tivemos uma queda muito mais dramática e mais de mil arestas saíram do grafo. Assim como o tamanho da maior componente já é mínimo. Como vemos, a densidade caiu quase pela metade. Ou seja, vemos que, de fato, são as palavras com poucas letras que possuem maior conectividade.
+
+### $k=6$
+
+**Número de vértices:** 2410
+**Número de arestas:** 446
+**Número de componentes:** 2004
+**Tamanho da menor componente:** 2
+**Tamanho da maior componente:** 9
+**Tamanho médio das componentes:** 2.20259
+**Grau médio:** 0.370124
+**Densidade:** 0.185062
+
+**Observações sobre os dados:** Agora sim tivemos uma queda maior no número de palavras e vemos que agora a grande componente sequer ainda existe e as arestas já estão num número mínimo, assim como a densidade que também caiu praticamente pela metade. 
+
+Se compararmos com os Lusiadas, vamos ver que mesmo para $k=7$ a densidade daquele grafo era muito superior à deste. Mostrando novamente que as conexões no Inglês são praticamente restritas a pequenas palavras.
+
+## Conclusões finais
+
+Apesar de repetirmos ao longo dos experimentos as conclusões, vamos recapitular alguns dos resultados observados ao longo do relatório.
+
+Observamos que a lingua Portuguesa é muito mais conectada de acordo com nossas três regras do que o Inglês, como pudemos observar de acordo com os experimentos sobre textos informativos e poéticos do Português e Inglês. 
+
+Além disso, em ambas as linguas, as palavras menores são muito mais conexas do que as maiores, mas isso acontece mais no Inglês do que no Português, que possui variações nas conjugações, por exemplo.
+
+Por fim, algo que notamos em todos os grafos é que eles não são muito densos. O grafo mais denso que encontramos foi o dos Lusiadas e sua densidade era claramente linear, podendo ser considerado esparso.
+
+## Aluno
 
 Lucas Paiolla Forastiere - 11221911
